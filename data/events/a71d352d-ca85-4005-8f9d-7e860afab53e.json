@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "2dd7539e-324d-4fa4-94dc-721f706aafc6": {
+      "label": "Interview, Brother",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/15obsiime07coq8kt6mtvi0op1t5sfct.mp4",
+      "duration": 1359
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview, Brother",
+  "created_at": "2026-05-27T02:44:37.475Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2026-05-27T02:44:37.475Z",
+  "updated_by": "luzgonz-glitch"
+}

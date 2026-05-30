@@ -1,0 +1,38 @@
+{
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Annotations"
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "title": "Methodology",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "methodology",
+  "created_at": "2026-05-30T23:17:11.348Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2026-05-30T23:17:11.348Z",
+  "updated_by": "luzgonz-glitch"
+}

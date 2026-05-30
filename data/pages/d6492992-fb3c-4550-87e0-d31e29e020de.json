@@ -4,7 +4,65 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Testing text,,,,",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "About ",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": "Methodology"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Citation: "
+        },
+        {
+          "text": "Los del Valle Oral History Project Archive, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin.",
+          "link": "https://txarchives.org/utlac/finding_aids/00459.xml"
         }
       ]
     }
@@ -12,7 +70,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Americo Paredes",
-  "updated_at": "2026-05-30T01:00:39.352Z",
+  "updated_at": "2026-05-30T02:00:28.035Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

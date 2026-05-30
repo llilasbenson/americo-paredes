@@ -1,0 +1,121 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Project Development",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project was developed by Luz Gonzalez, Graduate Student Technician at the LLILAS Benson Digital Scholarship Lab during the 2025-2026 academic year."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project was ? by Noreen Rivera, "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Financing and Tech Suppor",
+          "bold": true
+        },
+        {
+          "text": "t"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Financing and technical support for the project was provided by the "
+        },
+        {
+          "type": "link",
+          "url": "https://av-annotate.org/",
+          "children": [
+            {
+              "text": "AVAnnotate"
+            }
+          ]
+        },
+        {
+          "text": " Mellon Foundation funded project."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The tool "
+        },
+        {
+          "text": "Annotation Tag Cleaner ",
+          "link": "https://github.com/amtellez16/annotation-tag-cleaner"
+        },
+        {
+          "text": "developed by fellow student technician Allysa Tellez was of great help when building this project.",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AI Use",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcripts were generated using ?, and were closely reviewed for accuracy. Chat GPT-5 was used to analyze transcripts and provide lists of potential tags which were then manually reviewed and edited."
+        }
+      ]
+    }
+  ],
+  "title": "About",
+  "parent": "d6492992-fb3c-4550-87e0-d31e29e020de",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "about",
+  "created_at": "2026-05-30T23:12:52.288Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2026-05-30T23:12:52.288Z",
+  "updated_by": "luzgonz-glitch"
+}

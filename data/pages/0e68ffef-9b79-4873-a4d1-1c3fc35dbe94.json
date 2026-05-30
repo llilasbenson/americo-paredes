@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Additional Resources",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "additional-resources",
+  "created_at": "2026-05-30T23:19:31.784Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2026-05-30T23:19:31.784Z",
+  "updated_by": "luzgonz-glitch"
+}

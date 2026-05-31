@@ -4,7 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -16,7 +15,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "scale": 84
     },
     {
       "type": "paragraph",
@@ -73,7 +73,31 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Américo Paredes is a renowned folklorist, scholar, educator, novelist, poet, and singer from Brownsville, Texas. He was a pioneer in Mexican American studies and Chicano literature, inspiring several generations of Latino scholars at the University of Texas at Austin and beyond. These interviews were recorded for the Los del Valle Oral History Project, begun in 1993 by Manuel F. Medrano for the purpose of \"collecting and preserving the historical recollections of people in South Texas researched by scholars and underdocumented in archives and published research.\" [Medrano, 2019]"
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Américo Paredes was a renowned folklorist, scholar, educator, novelist, poet, and singer from Brownsville, Texas. He was a pioneer in Mexican American studies and Chicano literature, inspiring several generations of Latino scholars at the University of Texas at Austin and beyond. These interviews were recorded for the "
+                },
+                {
+                  "text": "Los del Valle Oral History Project",
+                  "bold": true,
+                  "link": "https://scholarworks.utrgv.edu/losdelvalle/"
+                },
+                {
+                  "text": ", begun in 1993 by Manuel F. Medrano for the purpose of \"collecting and preserving the historical recollections of people in South Texas researched by scholars and underdocumented in archives and published research.\" [Medrano, 2019]"
                 }
               ]
             },
@@ -115,37 +139,65 @@
               "children": [
                 {
                   "bold": true,
-                  "text": ""
+                  "text": "About"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Methodology"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "1994 Interview Series"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "1995 Interview Series"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Interview with Lorenzo Paredes"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Additional Resources"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Tag Index"
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-two",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-two",
-          "text": "Methodology"
         }
       ]
     },
@@ -183,9 +235,21 @@
       "type": "paragraph",
       "children": [
         {
-          "link": "https://txarchives.org/utlac/finding_aids/00459.xml",
-          "text": "References:",
-          "color": "#000000"
+          "text": "References",
+          "color": "#000000",
+          "italic": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "color": "#000000",
+          "italic": true,
+          "bold": true,
+          "text": ""
         }
       ]
     },
@@ -208,12 +272,32 @@
           "text": "https://scholarworks.utrgv.edu/histamjune2019/3"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://txarchives.org/utlac/finding_aids/00459.xml",
+          "color": "#000000",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://txarchives.org/utlac/finding_aids/00459.xml",
+          "color": "#000000",
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Americo Paredes",
-  "updated_at": "2026-05-30T23:04:32.798Z",
+  "updated_at": "2026-05-31T21:45:11.884Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

@@ -24,7 +24,8 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Interview with Américo Paredes, Part 1 of 5"
+              "text": "Interview with Américo Paredes, Part 1 of 5",
+              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-1-of-5/"
             }
           ]
         },
@@ -32,7 +33,8 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Interview with Américo Paredes, Part 2 of 5"
+              "text": "Interview with Américo Paredes, Part 2 of 5",
+              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-2-of-5/"
             }
           ]
         },
@@ -129,7 +131,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Américo Paredes Interviews",
   "slug": "americo-paredes-interviews",
-  "updated_at": "2026-06-01T22:15:19.191Z",
+  "updated_at": "2026-06-01T22:19:14.819Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

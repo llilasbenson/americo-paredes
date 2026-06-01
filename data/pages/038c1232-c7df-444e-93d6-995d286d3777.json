@@ -4,11 +4,12 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1995 Part 5 of 5",
   "slug": "interview-1995-part-5-of-5",
-  "updated_at": "2026-05-27T02:44:38.068Z",
+  "updated_at": "2026-06-01T21:50:45.781Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "70d5abd4-534d-4222-863a-a0e085066192"
-  }
+  },
+  "parent": "e31e27b2-42e7-44d0-a84e-ce91ccc6e8df"
 }

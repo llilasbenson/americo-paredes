@@ -4,16 +4,132 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Américo Paredes Interviews, 1994",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This series of interviews was collected in 1994 in Américo Paredes' home in Austin, TX. He is interviewed by Manuel F. Medrano. Appearances are also made by Antonio Zavaleta, Amelia Sidzu Nagamine Paredes (Américo's wife), and a nephew of theirs. Between each video there is some disruption in the flow of the interview, sometimes cutting off mid-sentence. The next video picks up a little later usually in the middle of a conversation. In part 5 of this series the interview ends and shifts into an informal book-signing session in Dr. Paredes's study."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 1 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 2 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 3 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 4 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 5 of 5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Américo Paredes Interviews, 1995",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This second series of interviews were collected in 1995, at some point after the interview with Américo' brother Lorenzo. Again in the home of Américo Paredes, the interviewer Manuel Medrano reviews some of the topics that Dr. Paredes covered in the previous interview session. Another interviewer, Letty, is also present and asks Américo Paredes several questions. In that process, similar information is revisited and new details and topics arise. In the second half of part 3 and most of part 4, on screen there are various photographs positioned on an overhead projector with the dialogue occurring off-screen. At the end of part 4 and for the majority of part 5 Américo is photographed in his study playing his guitar. "
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 1 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 2 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 3 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 4 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 5 of 5"
+            }
+          ]
         }
       ]
     }
   ],
   "created_at": "2026-06-01T17:14:44.069Z",
   "created_by": "luzgonz-glitch",
-  "title": "Américo Paredes Interviews, 1994",
-  "slug": "americo-paredes-interviews-1994",
-  "updated_at": "2026-06-01T21:53:04.933Z",
+  "title": "Américo Paredes Interviews",
+  "slug": "americo-paredes-interviews",
+  "updated_at": "2026-06-01T22:15:19.191Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

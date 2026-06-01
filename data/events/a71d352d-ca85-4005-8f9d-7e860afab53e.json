@@ -6,16 +6,22 @@
       "file_type": "Video",
       "file_url": "https://utexas.box.com/shared/static/15obsiime07coq8kt6mtvi0op1t5sfct.mp4",
       "duration": 1359,
-      "caption_set": []
+      "caption_set": [
+        {
+          "annotation_page_id": "09a5bc99-45cb-4d54-91ea-b27446ad8444"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
   "label": "Interview with Lorenzo Paredes",
   "created_at": "2026-05-27T02:44:37.475Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-06-01T17:24:33.420Z",
+  "updated_at": "2026-06-01T17:25:52.496Z",
   "updated_by": "luzgonz-glitch",
   "av_file_order": [
     "2dd7539e-324d-4fa4-94dc-721f706aafc6"
-  ]
+  ],
+  "citation": "Medrano, Manuel, 1949- (collector), Paredes, Lorenzo (interviewee), Medrano, Manuel, 1949- (interviewer). Interview with Lorenzo Paredes - University of Texas Libraries Collections. 1995-05-01. https://collections.lib.utexas.edu/catalog/utblac:665a9935-09df-4801-8e1e-b643e92008f3",
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/"
 }

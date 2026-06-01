@@ -4,11 +4,12 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1994 Part 2 of 5",
   "slug": "interview-1994-part-2-of-5",
-  "updated_at": "2026-05-27T02:44:37.686Z",
+  "updated_at": "2026-06-01T21:49:36.325Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "333f9730-cb66-4521-a7f7-d6192f6f4441"
-  }
+  },
+  "parent": "2fb1966f-d4d8-491d-abf8-fd77d5d7347c"
 }

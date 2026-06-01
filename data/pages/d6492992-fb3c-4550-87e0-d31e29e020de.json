@@ -9,14 +9,46 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://utexas.box.com/shared/static/c23dvdu2abxap4edvzibb8lu66q7a81s.png",
+      "type": "grid",
+      "layout": [
+        6
+      ],
       "children": [
         {
-          "text": ""
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://utexas.box.com/shared/static/c23dvdu2abxap4edvzibb8lu66q7a81s.png",
+              "caption": "Interviews with Américo Paredes, 1994-1995",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 90,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            }
+          ]
         }
-      ],
-      "scale": 84
+      ]
     },
     {
       "type": "paragraph",
@@ -53,7 +85,7 @@
                   "text": ""
                 }
               ],
-              "scale": 69,
+              "scale": 80,
               "align": "center"
             },
             {
@@ -69,14 +101,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "children": [
@@ -130,7 +154,8 @@
               "children": [
                 {
                   "text": "TABLE OF CONTENTS",
-                  "bold": true
+                  "bold": true,
+                  "underline": true
                 }
               ]
             },
@@ -139,7 +164,8 @@
               "children": [
                 {
                   "bold": true,
-                  "text": "About"
+                  "text": "About",
+                  "link": "https://llilasbenson.github.io/americo-paredes/pages/about/"
                 }
               ]
             },
@@ -148,7 +174,8 @@
               "children": [
                 {
                   "bold": true,
-                  "text": "Methodology"
+                  "text": "Methodology",
+                  "link": "https://llilasbenson.github.io/americo-paredes/pages/methodology/"
                 }
               ]
             },
@@ -157,7 +184,8 @@
               "children": [
                 {
                   "bold": true,
-                  "text": "1994 Interview Series"
+                  "link": "https://llilasbenson.github.io/americo-paredes/pages/methodology/",
+                  "text": ""
                 }
               ]
             },
@@ -166,7 +194,8 @@
               "children": [
                 {
                   "bold": true,
-                  "text": "1995 Interview Series"
+                  "text": "Interview with Lorenzo Paredes",
+                  "link": "https://llilasbenson.github.io/americo-paredes/pages/interview-with-lorenzo-paredes/"
                 }
               ]
             },
@@ -175,7 +204,8 @@
               "children": [
                 {
                   "bold": true,
-                  "text": "Interview with Lorenzo Paredes"
+                  "text": "Additional Resources",
+                  "link": "https://llilasbenson.github.io/americo-paredes/pages/additional-resources/"
                 }
               ]
             },
@@ -184,16 +214,8 @@
               "children": [
                 {
                   "bold": true,
-                  "text": "Additional Resources"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "Tag Index"
+                  "text": "Tag Index",
+                  "link": "https://llilasbenson.github.io/americo-paredes/tags/"
                 }
               ]
             }
@@ -297,7 +319,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Americo Paredes",
-  "updated_at": "2026-05-31T21:45:11.884Z",
+  "updated_at": "2026-06-01T21:30:11.203Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

@@ -1,0 +1,74 @@
+{
+  "audiovisual_files": {
+    "bf479fb9-b519-45ec-aebb-24f127f2f7b2": {
+      "label": "Interview, 1994 Part 1 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/pkdj7zwwpci3tu492ba3l2eommlpujkz.mp4",
+      "duration": 1357,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "f3050912-fd9f-4a1e-bb98-36feede54ad0": {
+      "label": "Interview, 1994 Part 2 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/cmb8qok37lqdm5pkwngm14s8kylqbufp.mp4",
+      "duration": 1345,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "bc8d0dff-5c5f-45c0-a6a9-c1f332283aee": {
+      "label": "Interview, 1994 Part 3 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/scx180wt2ltttasa93nanqudo4cvytgu.mp4",
+      "duration": 1345,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "952b9d8c-e8e3-4bdc-b3f8-8aeef69a59c7": {
+      "label": "Interview, 1994 Part 4 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/pqafsk5m9d7cpsgl7mloayt9eptpzyae.mp4 ",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "02d10757-08e5-4b1f-ac2d-33c6a739a696": {
+      "label": "Interview, 1994 Part 5 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/32ugifc386y2eygvyyp5le41lhtt3zn8.mp4 ",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "Medrano, Manuel, 1949- (collector), Paredes, Américo, 1915-1999 (interviewee), Medrano, Manuel, 1949- (interviewer). Interview with Américo Paredes, 1994, Part 1-5 of 5 - University of Texas Libraries Collections. 1994-09-22. https://collections.lib.utexas.edu/catalog/utblac:3bcff17a-21c8-4972-bb56-d9170647f5e4",
+  "label": "1994 Interviews",
+  "av_file_order": [
+    "bf479fb9-b519-45ec-aebb-24f127f2f7b2",
+    "f3050912-fd9f-4a1e-bb98-36feede54ad0",
+    "bc8d0dff-5c5f-45c0-a6a9-c1f332283aee",
+    "952b9d8c-e8e3-4bdc-b3f8-8aeef69a59c7",
+    "02d10757-08e5-4b1f-ac2d-33c6a739a696"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-06-01T17:14:43.036Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2026-06-01T17:14:43.036Z",
+  "updated_by": "luzgonz-glitch"
+}

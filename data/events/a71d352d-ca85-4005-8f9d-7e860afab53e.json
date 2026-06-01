@@ -6,18 +6,14 @@
       "file_type": "Video",
       "file_url": "https://utexas.box.com/shared/static/15obsiime07coq8kt6mtvi0op1t5sfct.mp4",
       "duration": 1359,
-      "caption_set": [
-        {
-          "annotation_page_id": "09a5bc99-45cb-4d54-91ea-b27446ad8444"
-        }
-      ]
+      "caption_set": []
     }
   },
   "auto_generate_web_page": true,
   "label": "Interview with Lorenzo Paredes",
   "created_at": "2026-05-27T02:44:37.475Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-06-01T17:26:31.502Z",
+  "updated_at": "2026-06-01T21:31:02.999Z",
   "updated_by": "luzgonz-glitch",
   "av_file_order": [
     "2dd7539e-324d-4fa4-94dc-721f706aafc6"

@@ -1,0 +1,74 @@
+{
+  "audiovisual_files": {
+    "33dd6880-f717-47b1-bebc-83dae1ceac9d": {
+      "label": "Interview, 1995 Part 1 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/xove8ufhyrmutsscr2i3mfxn7sou627f.mp4",
+      "duration": 1350,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "58cf27f7-f214-47e1-91b6-8ea44da71fd4": {
+      "label": "Interview, 1995 Part 2 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/gqjvbfei0lklbibnzq6n0i5jt7nirrnr.mp4",
+      "duration": 1355,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "f4e58374-a12a-44e9-928b-52b165d4de97": {
+      "label": "Interview, 1995 Part 3 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/6qp3gufxyi8x0fzg4kcqnqee9melg9gt.mp4",
+      "duration": 1371,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "b192db0f-916a-4963-aa53-88a7555cc7e9": {
+      "label": "Interview, 1995 Part 4 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/kvmf8gateewa07yfu76zwbctqup67z83.mp4",
+      "duration": 1609,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "9dcfb1c2-08a8-4dd3-b016-aecb21799fdf": {
+      "label": "Interview, 1995 Part 5 of 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/9civ3uh6phi3czadmhkwztfomi6vo3q6.mp4",
+      "duration": 1349,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "Medrano, Manuel, 1949- (collector), Paredes, Américo, 1915-1999 (interviewee), Medrano, Manuel, 1949- (interviewer). Interview with Américo Paredes, 1995, Part 1-5 of 5 - University of Texas Libraries Collections. 1995-03-25. https://collections.lib.utexas.edu/catalog/utblac:709e31a4-7700-4b4d-ab70-5f0c27ccd6f0",
+  "label": "1995 Interviews",
+  "av_file_order": [
+    "33dd6880-f717-47b1-bebc-83dae1ceac9d",
+    "58cf27f7-f214-47e1-91b6-8ea44da71fd4",
+    "f4e58374-a12a-44e9-928b-52b165d4de97",
+    "b192db0f-916a-4963-aa53-88a7555cc7e9",
+    "9dcfb1c2-08a8-4dd3-b016-aecb21799fdf"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-06-01T17:17:09.780Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2026-06-01T17:17:09.780Z",
+  "updated_by": "luzgonz-glitch"
+}

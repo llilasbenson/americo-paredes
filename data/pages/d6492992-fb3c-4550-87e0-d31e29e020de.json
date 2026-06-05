@@ -1,21 +1,13 @@
 {
   "content": [
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
         6
       ],
       "children": [
         {
-          "text": "Interviews with Américo Paredes (1915-1999)",
+          "text": "Interviews with Américo Paredes",
           "textSize": "heading-one"
         }
       ]
@@ -29,6 +21,18 @@
         {
           "text": "Los Del Valle Oral History Project Archive",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
         }
       ]
     },
@@ -59,7 +63,7 @@
                   "text": ""
                 }
               ],
-              "scale": 80,
+              "scale": 74,
               "align": "center"
             },
             {
@@ -87,14 +91,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Américo Paredes was a renowned folklorist, ethnographer, educator, novelist, poet, musician, and prolific scholar from Brownsville, Texas. With the support of his wife, Amelia Sidzu Nagamine Paredes, he earned three degrees within a span of six years, becoming the first Mexican-American to receive a doctorate degree from the University of Texas. His dissertation about border corridos and the story of Gregorio Cortez, "
+                  "text": "Américo Paredes (1915-1999), was a renowned folklorist, ethnographer, educator, novelist, poet, musician, and prolific scholar from Brownsville, Texas. Throughout his early years he wrote poetry, studied the guitar and performed original songs on the radio, worked as a journalist for "
+                },
+                {
+                  "text": "The Brownsville Herald",
+                  "italic": true
+                },
+                {
+                  "text": ", and served in World War 2 as a reporter. After sixteen years abroad and with the support of his wife, Amelia Sidzu Nagamine Paredes, he earned three degrees within a span of six years, becoming the first Mexican-American to receive a Ph.D. from the University of Texas. His dissertation on the corridos about Gregorio Cortez, "
                 },
                 {
                   "text": "With His Pistol in His Hand, ",
                   "italic": true
                 },
                 {
-                  "text": "became \"a foundational text and primer for the emerging academic movement of Chicano studies\" (Lamadrid, 2018). He was a pioneer in Mexican American studies and Chicano literature, inspiring several generations of Latino scholars at the University of Texas at Austin and beyond. "
+                  "text": "became \"a foundational text and primer for the emerging academic movement of Chicano studies\" (Lamadrid, 2018). His career as an educator spanned over thirty years, during which he founded the Center of Folklore and Ethnomusicology, established the interdisciplinary Folklore major between the English and Anthropology Departments, and founded and directed the Mexican American Studies Center. He was a pioneer in Mexican American studies and Chicano literature, inspiring several generations of Latino scholars at the University of Texas at Austin and beyond. "
                 }
               ]
             },
@@ -317,7 +328,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Home",
-  "updated_at": "2026-06-04T23:46:49.859Z",
+  "updated_at": "2026-06-05T04:43:05.145Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

@@ -61,67 +61,63 @@
               ]
             }
           ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "bulleted-list",
-              "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Interview with Américo Paredes, Part 1 of 5",
-                      "link": "https://llilasbenson.github.io/americo-paredes/pages/interview-1994-part-1-of-5/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Interview with Américo Paredes, Part 2 of 5"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Interview with Américo Paredes, Part 3 of 5"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Interview with Américo Paredes, Part 4 of 5"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Interview with Américo Paredes, Part 5 of 5"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "top": 7
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulleted-list",
       "children": [
         {
-          "text": "",
-          "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-5-of-5/"
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://llilasbenson.github.io/americo-paredes/pages/interview-1994-part-1-of-5/",
+              "children": [
+                {
+                  "text": "Interview with Américo Paredes, Part 1 of 5"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 2 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 3 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 4 of 5"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview with Américo Paredes, Part 5 of 5"
+            }
+          ]
         }
       ]
     },
@@ -165,7 +161,15 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "This interview is conducted in Spanish, in the home of Americo Paredes's brother Lorenzo Paredes. Manuel F. Medrano interviews him as they look through family photo albums for photos of Américo. An English translation of the transcript is available, and can be selected under "
+                  "text": "This interview is conducted in Spanish, in the home of Americo Paredes's brother Lorenzo Paredes. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Manuel F. Medrano interviews him as they look through family photo albums for photos of Américo. An English translation of the transcript is available, and can be selected under "
                 },
                 {
                   "underline": true,
@@ -187,7 +191,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "right": 33
         }
       ]
     },
@@ -250,12 +255,15 @@
                   "text": "In the second half of part 3 and most of part 4, there are various photographs positioned on an overhead projector on-screen with the dialogue occurring off-screen. At the end of part 4 and for the majority of part 5 Américo is photographed in his study playing his guitar. "
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "bulleted-list",
               "children": [
@@ -300,9 +308,16 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
-          ],
-          "top": 15
+          ]
         }
       ]
     }
@@ -311,7 +326,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview Navigation",
   "slug": "interview-navigation",
-  "updated_at": "2026-06-05T05:01:12.414Z",
+  "updated_at": "2026-06-05T20:10:40.638Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

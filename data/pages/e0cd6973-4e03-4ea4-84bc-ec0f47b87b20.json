@@ -13,8 +13,7 @@
       "uuid": "333f9730-cb66-4521-a7f7-d6192f6f4441",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1994 Part 2 of 5",
   "slug": "interview-1994-part-2-of-5",
-  "updated_at": "2026-06-05T02:22:55.841Z",
+  "updated_at": "2026-06-05T02:24:01.346Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

@@ -7,8 +7,8 @@
       ],
       "children": [
         {
-          "text": "Interviews with Américo Paredes",
-          "textSize": "heading-one"
+          "text": "",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -19,8 +19,27 @@
       ],
       "children": [
         {
-          "text": "Los Del Valle Oral History Project Archive",
-          "textSize": "heading-three"
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interviews with Américo Paredes",
+                  "textSize": "heading-one"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Los Del Valle Oral History Project Archive",
+                  "textSize": "heading-two"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -63,7 +82,7 @@
                   "text": ""
                 }
               ],
-              "scale": 74,
+              "scale": 78,
               "align": "center"
             },
             {
@@ -74,7 +93,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "top": 10
         },
         {
           "type": "column",
@@ -158,8 +178,8 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-two",
-          "text": ""
+          "text": "",
+          "textSize": "heading-four"
         }
       ]
     },
@@ -168,7 +188,8 @@
       "children": [
         {
           "text": "TABLE OF CONTENTS",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -176,7 +197,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "heading-four"
         },
         {
           "type": "link",
@@ -320,7 +342,8 @@
           "text": "References",
           "color": "#000000",
           "italic": true,
-          "bold": true
+          "bold": true,
+          "textSize": "heading-four"
         }
       ]
     },
@@ -371,6 +394,26 @@
         {
           "link": "https://txarchives.org/utlac/finding_aids/00459.xml",
           "color": "#000000",
+          "text": "Lamadarid, E. (2018, October 11). Journal of Folklore Research: JFR Review for Border Folk Balladeers: Critical Studies on Américo Paredes. Archive.org. https://web.archive.org/web/20181012014502/http://www.jfr.indiana.edu/review.php?id=2287"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://txarchives.org/utlac/finding_aids/00459.xml",
+          "color": "#000000",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://txarchives.org/utlac/finding_aids/00459.xml",
+          "color": "#000000",
           "text": ""
         }
       ]
@@ -379,7 +422,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Home",
-  "updated_at": "2026-06-05T05:06:57.778Z",
+  "updated_at": "2026-06-05T20:08:22.940Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "333f9730-cb66-4521-a7f7-d6192f6f4441",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-05-27T02:44:37.686Z",
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1994 Part 2 of 5",
   "slug": "interview-1994-part-2-of-5",
-  "updated_at": "2026-06-01T21:49:36.325Z",
+  "updated_at": "2026-06-05T02:22:55.841Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "333f9730-cb66-4521-a7f7-d6192f6f4441"
   },

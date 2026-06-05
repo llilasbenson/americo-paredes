@@ -9,35 +9,12 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Dr. Paredes discusses growing up in Brownsville, Texas, his family's history, the Brownsville school system, and growing up during the Depression."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "event",
       "uuid": "db628617-29e6-40b8-a261-b447ce6d9a67",
       "includes": [
         "media",
-        "annotations"
+        "annotations",
+        "description"
       ],
       "children": [
         {
@@ -66,7 +43,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1994 Part 1 of 5",
   "slug": "interview-1994-part-1-of-5",
-  "updated_at": "2026-06-05T05:03:21.554Z",
+  "updated_at": "2026-06-05T20:17:18.722Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

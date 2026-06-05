@@ -72,7 +72,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Interview with Américo Paredes, Part 1 of 5"
+                      "text": "Interview with Américo Paredes, Part 1 of 5",
+                      "link": "https://llilasbenson.github.io/americo-paredes/pages/interview-1994-part-1-of-5/"
                     }
                   ]
                 },
@@ -310,7 +311,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview Navigation",
   "slug": "interview-navigation",
-  "updated_at": "2026-06-05T05:00:28.643Z",
+  "updated_at": "2026-06-05T05:01:12.414Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

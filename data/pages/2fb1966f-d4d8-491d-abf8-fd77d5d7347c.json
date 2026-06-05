@@ -4,8 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Américo Paredes Interviews, 1994",
-          "textSize": "heading-two"
+          "text": "",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -13,7 +13,187 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-two",
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Américo Paredes Interviews, 1994",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This series of interviews was collected in 1994 in Américo Paredes's home in Austin, TX. He is interviewed by Manuel F. Medrano. Appearances are also made by "
+                },
+                {
+                  "text": "Antonio Zavaleta",
+                  "link": "https://drtonyzavaleta.com/"
+                },
+                {
+                  "text": ", Amelia Sidzu Nagamine Paredes, and Paredes's nephew. Between each video there is some disruption in the flow of the interview, sometimes cutting off mid-sentence. In part 5 of this series the interview ends and shifts into an informal book-signing session in Dr. Paredes's study."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 1 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 2 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 3 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 4 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 5 of 5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "top": 7
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-5-of-5/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interview with Lorenzo Paredes, 1995",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This interview is conducted in Spanish, in the home of Americo Paredes's brother Lorenzo Paredes. Manuel F. Medrano interviews him as they look through family photo albums for photos of Américo. An English translation of the transcript is available, and can be selected under "
+                },
+                {
+                  "underline": true,
+                  "text": "Filter -> Annotation Sets."
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Lorenzo Paredes",
+                      "link": "https://llilasbenson.github.io/americo-paredes/pages/interview-with-lorenzo-paredes/"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -22,149 +202,115 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This series of interviews was collected in 1994 in Américo Paredes's home in Austin, TX. He is interviewed by Manuel F. Medrano. Appearances are also made by "
-        },
-        {
-          "text": "Antonio Zavaleta",
-          "link": "https://drtonyzavaleta.com/"
-        },
-        {
-          "text": ", Amelia Sidzu Nagamine Paredes, and Paredes's nephew. Between each video there is some disruption in the flow of the interview, sometimes cutting off mid-sentence. In part 5 of this series the interview ends and shifts into an informal book-signing session in Dr. Paredes's study."
-        }
-      ]
-    },
-    {
-      "type": "bulleted-list",
-      "children": [
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 1 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-1-of-5/"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 2 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-2-of-5/"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 3 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-3-of-5/"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 4 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-4-of-5/"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 5 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1994-part-5-of-5/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Américo Paredes Interviews, 1995",
-          "textSize": "heading-two"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-two",
+          "textSize": "heading-three",
           "text": ""
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
       "children": [
         {
-          "text": "This second series of interviews were collected in 1995, at some point after the interview with Américo's brother Lorenzo. Again in the home of Américo Paredes, the interviewer Manuel F. Medrano reviews some of the topics that Dr. Paredes covered in the previous interview session. Another interviewer, Letty, is also present and asks Américo Paredes several questions. In that process, similar information is revisited and new details and topics arise. In the second half of part 3 and most of part 4, there are various photographs positioned on an overhead projector on-screen with the dialogue occurring off-screen. At the end of part 4 and for the majority of part 5 Américo is photographed in his study playing his guitar. "
-        }
-      ]
-    },
-    {
-      "type": "bulleted-list",
-      "children": [
-        {
-          "type": "list-item",
+          "type": "column",
           "children": [
             {
-              "text": "Interview with Américo Paredes, Part 1 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1995-part-1-of-5/"
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Américo Paredes Interviews, 1995",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This second series of interviews was collected in 1995, at some point after the interview with Américo's brother Lorenzo. Again in the home of Américo Paredes, the interviewer Manuel F. Medrano reviews some of the topics that Dr. Paredes covered in the previous interview session. Another interviewer, Letty Fernández, is also present and asks Américo Paredes several questions. Information from the earlier interview is revisited and new details and topics arise. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In the second half of part 3 and most of part 4, there are various photographs positioned on an overhead projector on-screen with the dialogue occurring off-screen. At the end of part 4 and for the majority of part 5 Américo is photographed in his study playing his guitar. "
+                }
+              ]
             }
           ]
         },
         {
-          "type": "list-item",
+          "type": "column",
           "children": [
             {
-              "text": "Interview with Américo Paredes, Part 2 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1995-part-2-of-5/"
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 1 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 2 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 3 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 4 of 5"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Interview with Américo Paredes, Part 5 of 5"
+                    }
+                  ]
+                }
+              ]
             }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 3 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1995-part-3-of-5/"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 4 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1995-part-4-of-5/"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Interview with Américo Paredes, Part 5 of 5",
-              "link": "https://llilasbenson.github.io/americo-paredes/events/interview-1995-part-5-of-5/"
-            }
-          ]
+          ],
+          "top": 15
         }
       ]
     }
   ],
   "created_at": "2026-06-01T17:14:44.069Z",
   "created_by": "luzgonz-glitch",
-  "title": "Americo Paredes Interviews",
-  "slug": "americo-paredes-interviews-2",
-  "updated_at": "2026-06-05T02:26:11.983Z",
+  "title": "Interview Navigation",
+  "slug": "interview-navigation",
+  "updated_at": "2026-06-05T05:00:28.643Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

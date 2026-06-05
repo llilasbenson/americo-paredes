@@ -13,9 +13,28 @@
       "uuid": "db628617-29e6-40b8-a261-b447ce6d9a67",
       "includes": [
         "media",
-        "annotations",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "db628617-29e6-40b8-a261-b447ce6d9a67",
+      "includes": [
         "description"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +54,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1994 Part 1 of 5",
   "slug": "interview-1994-part-1-of-5",
-  "updated_at": "2026-06-05T02:17:26.453Z",
+  "updated_at": "2026-06-05T02:18:03.974Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

@@ -148,84 +148,6 @@
                   "text": "Presented here are ten unedited and original interviews collected in 1994 and 1995 with Dr. Américo Paredes, and one interview with his older brother Lorenzo Paredes. Across these interviews Américo Paredes chronicles his life, academic journey and career as a writer and educator. "
                 }
               ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "TABLE OF CONTENTS",
-                  "bold": true,
-                  "underline": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "About",
-                  "link": "https://llilasbenson.github.io/americo-paredes/pages/about/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "Methodology",
-                  "link": "https://llilasbenson.github.io/americo-paredes/pages/methodology/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "Interviews with Américo Paredes",
-                  "link": "https://llilasbenson.github.io/americo-paredes/pages/americo-paredes-interviews/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "Interview with Lorenzo Paredes",
-                  "link": "https://llilasbenson.github.io/americo-paredes/pages/interview-with-lorenzo-paredes/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "Additional Resources",
-                  "link": "https://llilasbenson.github.io/americo-paredes/pages/additional-resources/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "Tag Index",
-                  "link": "https://llilasbenson.github.io/americo-paredes/tags/"
-                }
-              ]
             }
           ],
           "left": 7
@@ -237,6 +159,135 @@
       "children": [
         {
           "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "TABLE OF CONTENTS",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://llilasbenson.github.io/americo-paredes/pages/about/",
+          "children": [
+            {
+              "text": "About"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://llilasbenson.github.io/americo-paredes/pages/methodology/",
+          "children": [
+            {
+              "text": "Methodology"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://llilasbenson.github.io/americo-paredes/pages/interview-navigation/",
+          "children": [
+            {
+              "text": "Interview Navigation"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://llilasbenson.github.io/americo-paredes/pages/additional-resources/",
+          "children": [
+            {
+              "text": "Additional Resources"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://llilasbenson.github.io/americo-paredes/tags/",
+          "children": [
+            {
+              "text": "Tag Index"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://llilasbenson.github.io/americo-paredes/tags/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
           "text": ""
         }
       ]
@@ -328,7 +379,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Home",
-  "updated_at": "2026-06-05T04:43:05.145Z",
+  "updated_at": "2026-06-05T05:06:57.778Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

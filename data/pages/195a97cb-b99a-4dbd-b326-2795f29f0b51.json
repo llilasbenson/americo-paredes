@@ -4,12 +4,20 @@
       "type": "heading-one",
       "children": [
         {
-          "text": "Annotations"
+          "text": "Annotations and Tag Groups"
         }
       ]
     },
     {
-      "type": "heading-one",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project was annotated across eleven tag categories. Because of the biographical focus of the interviews, we designed several custom tag groupings tailored to Américo Paredes's distinct history and professional trajectory. In addition to core categories that capture references to places, dates, people, subjects and organizations, we introduced six specialized categories to highlight recurring themes. These tags illuminate Paredes's relationship to music and education, document his published works and significant literary influences, and trace his interpersonal and familial relationships. Mentions of linguistics and environment are also given emphasis, due to their unique significance in relation to the socio-cultural landscape of the US-Mexico border region in the 1900's. Together, these annotations provide a flexible schema for exploring how Paredes’s life history intersects with broader cultural and historical processes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -20,7 +28,137 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "Specialized Categories",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Music - ",
+          "bold": true
+        },
+        {
+          "text": "Songs, Instruments, Genres, Musicians, Musical Works, Songwriting"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Biographical ",
+          "bold": true
+        },
+        {
+          "text": "- Relational and familial groupings, i.e. Immediate Family or Childhood Friends"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Education",
+          "bold": true
+        },
+        {
+          "text": " - Educational institutions, pedagogy, fields of study, degrees"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Environment",
+          "bold": true
+        },
+        {
+          "text": " - Natural environment and ecosystems, border landscapes and features, ecological activity"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Publications",
+          "bold": true
+        },
+        {
+          "text": " - Published works, novels, academic publications, literary influences"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Linguistics",
+          "bold": true
+        },
+        {
+          "text": " - Cultural linguistics, etymology, languages, and code-switching. "
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Code-switching is defined as a switching from the linguistic system of one language or dialect to that of another (as for different social or cultural contexts). In this project the tag \"Code-switching\" is used across any sections where the act of code-switching is the topic of discussion, and it is also used as a tag to document any instance where a Speaker in the interview performs code-switching. Within this project all code-switching is relative to the English-Spanish bilingualism of the US-Mexico border region of South Texas."
         }
       ]
     }
@@ -33,6 +171,6 @@
   "slug": "methodology",
   "created_at": "2026-05-30T23:17:11.348Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-05-30T23:17:11.348Z",
+  "updated_at": "2026-06-05T00:47:27.748Z",
   "updated_by": "luzgonz-glitch"
 }

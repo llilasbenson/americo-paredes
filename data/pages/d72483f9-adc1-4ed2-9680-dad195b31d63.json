@@ -21,14 +21,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project was ? by Noreen Rivera, "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -69,14 +61,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The tool, "
+          "text": "The tool "
         },
         {
-          "text": "Annotation Tag Cleaner ",
+          "text": "Annotation Tag Cleaner, ",
           "link": "https://github.com/amtellez16/annotation-tag-cleaner"
         },
         {
-          "text": "developed by fellow student technician Allysa Tellez was of great help when building this project.",
+          "text": "developed by fellow student technician Allysa Tellez, was of great help when building this project.",
           "color": "#000000"
         }
       ]
@@ -102,7 +94,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Transcripts were generated using ?, and were closely reviewed for accuracy. Chat GPT-5 was used to analyze transcripts and provide lists of potential tags which were then manually reviewed and edited."
+          "text": "Transcripts were generated using [?], and were closely reviewed for accuracy. Chat GPT-5 was used to analyze transcripts and provide lists of potential tags, which were then manually reviewed and finalized."
         }
       ]
     }
@@ -115,6 +107,6 @@
   "slug": "about",
   "created_at": "2026-05-30T23:12:52.288Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-06-04T23:48:03.096Z",
+  "updated_at": "2026-06-08T21:03:07.182Z",
   "updated_by": "luzgonz-glitch"
 }

@@ -82,7 +82,7 @@
                   "text": ""
                 }
               ],
-              "scale": 78,
+              "scale": 75,
               "align": "center"
             },
             {
@@ -99,14 +99,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "children": [
@@ -170,7 +162,10 @@
               ]
             }
           ],
-          "left": 7
+          "left": 7,
+          "top": 10,
+          "right": 0,
+          "bottom": 0
         }
       ]
     },
@@ -422,7 +417,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Home",
-  "updated_at": "2026-06-05T20:08:22.940Z",
+  "updated_at": "2026-06-08T20:26:37.808Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

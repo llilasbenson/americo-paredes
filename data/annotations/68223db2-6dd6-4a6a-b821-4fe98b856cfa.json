@@ -1,1 +1,6226 @@
-{"annotations":[],"set":"Default","event_id":"e8a08348-ae3f-4fd7-aa42-f32df201033a","source_id":"64dd70bc-94e5-4beb-ad58-9741aa5a0cac"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He decided to publish without censoring like that. It was given to a young woman assistant director who did a very good job in tightening the story and so on and it was published. But at that time-- This is a long story but it's the only way you can understand"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "90f88d58-b00d-47a9-bfed-2de95c772b5e"
+    },
+    {
+      "start_time": 25,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "how my fortunes and those of the Chicano Movimiento came together. At that time UT press was fairly new. When they published a book they made a big, \"Brew-ha-ha\" about it. The university co-op just across the street, they would have a big stand outside with a book, they would have an autograph party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "1c99f44e-3cf0-4fde-9159-983eb1652160"
+    },
+    {
+      "start_time": 56,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nada, nothing of that was done about my book. I went there looking for it and I found one copy in a stand inside for Western Americana. Since it began with a W in the title, it was down at the bottom. The book didn't sell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "457ab1fc-32f7-4202-a7b6-d1b4ff29ea96"
+    },
+    {
+      "start_time": 80,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had been given a very special contract, I would not get a penny in royalties for the first thousand copies so I didn't get any money. About 400 copies sold to the Texas Folklore Society because they accepted the book instead of an annual, and that went on that way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "76a6deef-f3d7-49cb-98a4-9c4c3f34a979"
+    },
+    {
+      "start_time": 105,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The book appeared in 58, until the Chicanos in California discovered it. I am flattered that many of them, including Tomás-- I'm getting bad. Tomás Rivera, the author of \"Y no se lo tragó la tierra\". I couldn't remember his name probably because he went to Riverside and I thought"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "81daeb23-1464-4477-af2b-28296b8f421b"
+    },
+    {
+      "start_time": 134,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he couldn't be Rivera. [laughs] Anyway, he claimed that he had read \"With His Pistol in His Hand\" and that had encouraged him to write. Some Chicanos in California told me that the book was very important to the movimiento. From there on the book sold in California and finally people in Texas began"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "b5657d79-22ed-4be7-8a23-2d4c62907975"
+    },
+    {
+      "start_time": 161,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to hear about it, so that is my connection with the movimiento. Apparently we helped each other. I helped them by giving him a book that they could use to speak, to write, and to use as a model. They helped me by making me known."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "9ab82e13-b88c-402a-8a65-57df0a92756c"
+    },
+    {
+      "start_time": 181,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, it's quite a compliment from Tomás Rivera, it's quite a--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "24379bf1-5407-4078-b543-c35ccdb3b198"
+    },
+    {
+      "start_time": 184,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tomás Rivera, the name-- Digo a veces, ya me faltan algunas teclas en la pianola. [laughter] \n[Translation: I say sometimes, I'm missing a few keys in the pianola]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Spanish idiom",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "20e90503-b230-4e63-985a-fe0a50f866d4"
+    },
+    {
+      "start_time": 196,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes, especially with names. All of a sudden I panicked, even when I knew the name, Tomás Rivera. All of a sudden I panicked and I just didn't feel that was his name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "California",
+          "category": "Places"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Rivera, Tomás, 1935-1984",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subjects"
+        },
+        {
+          "tag": "With His Pistol in His Hand--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "y no se lo tragó la tierra--Tomás Rivera",
+          "category": "Publications"
+        },
+        {
+          "tag": "The University of Texas Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University Co-op",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Folklore Society",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Pianola",
+          "category": "Music"
+        }
+      ],
+      "uuid": "ff1b9471-2658-4000-9c82-3a6ed349a7b7"
+    },
+    {
+      "start_time": 209,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You told us a last time, a little bit and I don't want to take any more time because Letty has to ask you some questions. But when you had just graduated from high school, you didn't know if you were going to go to college or not, you said your ex-principal had a big impact getting you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "cbc60bb0-ec62-412c-9017-4ceccd371214"
+    },
+    {
+      "start_time": 229,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "into Brownsville Junior College, could you give us a little bit about that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "ccbb2b2d-fd06-485d-a7eb-cbd8df3d2816"
+    },
+    {
+      "start_time": 233,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brownsville Junior College and Brownville High School were in the same building. I think that building still exists in--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "7a9b4772-add9-482b-a33a-e97d76e53c1f"
+    },
+    {
+      "start_time": 245,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's on Palm Boulevard and Elizabeth street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "268b2754-ece7-4abd-b1f3-1478f1147298"
+    },
+    {
+      "start_time": 246,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Palm Boulevard and Elizabeth, and the same person that was principal of the high school was Dean of the college, it was a man who had been-- I never knew his first name because everybody called him Red Irvine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4da00eef-a026-4454-9033-3d7746085622"
+    },
+    {
+      "start_time": 264,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The one that told me his name once, he had learned it from-- His brother-in-law was Rolando Hinojosa, another valley boy who was in fiction much more than me. But what Red Irvine's name was, he had been a football coach and then he became dean of the college and principal of the high school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "e41ef20c-3647-48d9-8f8c-9f1f837a844e"
+    },
+    {
+      "start_time": 294,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It just happened that in my junior year in high school I had a teacher who was-- You're going to delete this if you want to, but she was a first-class bitch. She was teaching English literature and apparently she didn't like it. It happened that one of the authors was Walt Whitman. Now, all my life"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "b2371ea5-6ec2-4d14-9c7b-a5fafbe756f2"
+    },
+    {
+      "start_time": 325,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the kind of poetry that I had known both in Spanish and English had rhyme and the old kind of rhythm, so I didn't like Whitman. She said, \"He's the greatest poet that we have.\" \"Well, show me,\" and she didn't. We got into an argument so much that she failed me and not until I apologized--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "b66aef00-6594-4b14-9d76-29b7659891e3"
+    },
+    {
+      "start_time": 357,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had A's in everything, and not until I apologized was I allowed to go into senior class. She gave me a C anyway but that didn't bother me so much. During the end of that, of my junior year, there was a poetry writing contest sponsored by Trinity University."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4e6d1567-0783-49e3-8d76-92846b6bd3fa"
+    },
+    {
+      "start_time": 386,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trinity is now in San Antonio but it used to be in Waxahachie at that time. The notice was just pinned to the bulletin board, no teacher told their classes, as far as I know, if they want to try for this. I guess they thought we were too dumb. I saw the notice and I went, and I had written"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4f526f74-40c2-4485-a27e-f0251ce9bbd4"
+    },
+    {
+      "start_time": 415,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a little poem, a sonnet, that's not so very good but I sent it on my own. I got first prize. Mr. Irvine, who was our dean of the college and principal of the high school, found out-- Of course, I let them know. He came, saw me and said, \"Who was your sponsor?\". I told him, \"No one,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "d3fe2173-997b-4e82-a2a6-f7ed83e7e843"
+    },
+    {
+      "start_time": 444,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just sent it by myself.\" He thought that it was remarkable and not only that I should have won it but that I should have done it on my own initiative. When I graduated from high school, he praised me at that time. I was working at that time, my grades were unexceptional. Anyway,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0396e7f0-8c06-417f-83e7-720a78643730"
+    },
+    {
+      "start_time": 0,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the semester ended, I graduated. I was standing on the corner of Levee, I think, with some friends in the afternoon. Not looking for trouble, we're just waiting for it to come by. Nothing to do, no jobs, and he went by-- I remember he had a little roadster with a rumble seat"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0a4dd0b3-1eec-4e76-be25-fd3899cb1410"
+    },
+    {
+      "start_time": 495,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and he saw me, stopped, backed up, and called me over. I went over to see him and he said, \"What are you doing?\". I said, \"Nothing, looking for a job,\" he said, \"You aren't going to junior college?\". I said, \"I can't,\" he said, \"Did you apply for student assistantship?\". I told him, \"What's that?\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "c334b3c9-b8c2-463e-9d6c-abec5467fd75"
+    },
+    {
+      "start_time": 520,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The good old lady who was in charge of that had mentioned all of the student assistantships to other people. you know what other people I mean, but not to us sebosos [greasy kids?], so I said I didn't know and he said, \"Write me a letter.\" It was already midsummer, he said the deadline was April,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "d80cdd69-373d-450c-9062-3ac48f21353a"
+    },
+    {
+      "start_time": 545,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Write me a letter and I'll see it you get a student assistantship. I did and I got the student assistantship. I still had to work, I think I worked about 50 hours a week, sounds like an exaggeration but I counted them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "80339880-821f-43d0-aece-44ee290d2511"
+    },
+    {
+      "start_time": 561,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where were you working at the time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0612c848-ffee-44a6-838c-6618764b4644"
+    },
+    {
+      "start_time": 563,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I worked for the Cardenas store and that year my grades were not so very good. The next year I got a job at the Herald just translating things for the editor of the Spanish edition, and that is how I went for those two years. If it had not been that I had those two years already"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "f2a220df-7953-428f-b00f-d0df6ff3bc48"
+    },
+    {
+      "start_time": 588,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would not have been able to come back in 1950, and get the rest of the bachelors in 12 months here. But that was Mr. Irvine. I'd have to see if I can find out what his real name, first name was. Everybody knew him as Red, era colorado colorado la cara."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Palm Boulevard",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Levee Street",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Cardenas, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "5b7762b5-61d4-484a-9d33-de4232497c5f"
+    },
+    {
+      "start_time": 612,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you want to call Letty? --Letty has got a few questions for you about the community college and your experiences there and then he's going to proceed and photograph, or videotape the photograph, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "75221418-702f-466f-a0dd-696178de436a"
+    },
+    {
+      "start_time": 623,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "834eec07-d3de-4cc9-bfd8-cc5253058b49"
+    },
+    {
+      "start_time": 624,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right now you're just been videotaping?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "268d7a67-c5cb-44a8-8143-e2dfeb8fa250"
+    },
+    {
+      "start_time": 626,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, and just filling in the interview that I did in September, but she's got the interview specifically for--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "a17128e0-8852-4817-9a44-fc8092195b30"
+    },
+    {
+      "start_time": 632,
+      "end_time": 643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just have like maybe three questions Dr. Paredes and then I'll be done. --talking to your wife, talking about people in Brownsville."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "a2349886-4803-41c7-9027-ce62bd75b3ab"
+    },
+    {
+      "start_time": 643,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[chuckles] Talking about what in Brownsvile? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "731cf4ac-0b8a-4595-adfc-0c2fda3106f6"
+    },
+    {
+      "start_time": 647,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People in Brownsville. Manfred Del Castillo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "7ffbf8d8-de9c-43cc-8776-81e192ba1473"
+    },
+    {
+      "start_time": 649,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, he's my nephew. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "85f40f6c-2a55-47c1-8cac-7b505e98fdaf"
+    },
+    {
+      "start_time": 652,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, and Obi García."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "753d0f7a-28f4-4cf1-89ca-78685ec7a282"
+    },
+    {
+      "start_time": 653,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Obi Garcia was a very good friend. I knew him when I was a newspaper reporter there because he was a young lawyer at that time. He died very recently."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Del Castillo, Manfred L, 1927-2021",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "García, Obi",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        }
+      ],
+      "uuid": "54b6ea9f-3168-462b-be4d-85420b56d48c"
+    },
+    {
+      "start_time": 666,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recently, but I used to always see him walking to the courthouse. I just really wanted to ask you a few questions, what were your memories of Brownsville Junior College when you were a student there? What was it like when you were going to college there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "407833b2-567e-4784-9561-a28f47a90478"
+    },
+    {
+      "start_time": 683,
+      "end_time": 701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was just an extension of high school because it was in the same building, some of the same teachers. Though really what you had at that time was, you would have an English department, let's say, and the head of the English department taught in this junior college."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "14eb7c37-f2cb-48cb-b623-dcabc00659ba"
+    },
+    {
+      "start_time": 702,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somebody else taught the English for the high school sometimes, if somebody else was not very good. As I was telling Manuel [chuckles] a little while ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "05d73d16-5055-49f6-8609-09834accf1d5"
+    },
+    {
+      "start_time": 713,
+      "end_time": 715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember any of your classmates back then?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "fd783804-7e1e-485e-a539-9bda92f97f55"
+    },
+    {
+      "start_time": 716,
+      "end_time": 717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "3f842632-4091-47e1-845a-8382de95d519"
+    },
+    {
+      "start_time": 717,
+      "end_time": 718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have good stories about them?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "d5adb39e-36ab-426a-b70f-98a65aee5500"
+    },
+    {
+      "start_time": 723,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was up somewhere in between because I had friends among the Anglos and because I was a minor celebrity. I had just won a poetry writing contest and so on. But my closest friends had not been in high school with me. Roberto Ramirez had finished high school and had gone out and worked."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4675dd66-18a4-4515-baaf-72b706fb211a"
+    },
+    {
+      "start_time": 756,
+      "end_time": 782,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The one who had been my schoolmate was his younger brother, Florentino, who I think still lives in Brownsville. Sabas Klahn, who was the other one, the two-- We were inseparable we three. He had received his high school education at St. Joseph's, which was an all-male academy at that time,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "54ad9c40-38f9-4659-b144-9103f4016c3f"
+    },
+    {
+      "start_time": 783,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so we three were always together. Since I worked most of the time when I was not in school we would use to get together in the cafeteria. I remember Berta Cabaza, she died of cancer. Everybody seems to die of cancer, Sabas and Roberto both."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "25be984e-c40e-4ec7-9abd-b87b5b4775df"
+    },
+    {
+      "start_time": 807,
+      "end_time": 814,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She was from San Benito and she became a very fine Spanish teacher. I kept in touch with her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "92fecf86-ebd9-44dc-80a8-7a86e0774a3f"
+    },
+    {
+      "start_time": 815,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They named a school after her. -There's a school named after her in San Benito."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "feb67df6-5a3d-43d7-912f-6d9d5c4692d0"
+    },
+    {
+      "start_time": 816,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pardon?  -In San Benito? [coughs] She was in San Benito."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "Places"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Elías Florentino, Jr",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Cabaza, Berta, 1913-1974",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Berta Cabaza Middle School",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4cf614fb-2bb3-4775-9534-9c83f6dad7c7"
+    },
+    {
+      "start_time": 821,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you had a chance to talk to the graduates, what would you tell them? What would be your advice to them?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "10be4401-0c7a-4028-818f-f676d0ecf0ee"
+    },
+    {
+      "start_time": 831,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know, we had the same problem when they were asking me about writers. Certainly they have a great deal more opportunity than we had when we were young. They should seize that opportunity because one thing that has happened after the movimiento chicano,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "d67df07d-0140-43ba-9f2f-2d8c306cab23"
+    },
+    {
+      "start_time": 857,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that our people had advanced in education, economically, but the backlash is pretty serious nowadays. Besides that, there is a tendency to rest on one's laurels. I suppose an education doesn't mean as much to the younger generation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "ba8fa698-2baa-4382-8f4b-662cee5ec503"
+    },
+    {
+      "start_time": 882,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not saying it doesn't mean a good deal but not as much as it meant to the generation before them when they had to fight for that kind of education because it was denied to most of them. Now, of course, the doors are open. Though, with the administration that's coming,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "e89b4e26-3ecb-415e-ae9f-ca208ed76ab7"
+    },
+    {
+      "start_time": 902,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean the new alignment in Congress, there'll be much less opportunity to. It'll probably come full circle to where they'll have to fight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "42d76d35-fe6c-4665-9615-7c43c1b01e40"
+    },
+    {
+      "start_time": 916,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that what drove you, that you didn't want to give up? That you wanted to succeed? Is that why you became so successful? Was that all part of your drive, or--?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "6e5cee8f-419d-4a0f-9215-93c1708d5384"
+    },
+    {
+      "start_time": 926,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Certainly ambition but also tremendous good luck here and there. Apparently, because-- I didn't mention that but when I finished junior college our English teacher, who was a very good teacher, was asking a group of us that were around her desk what everybody was going to do and somebody would say"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "526c802f-7f05-4824-85ad-627f45a92ea9"
+    },
+    {
+      "start_time": 953,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they were going to go to Colorado, to Boulder, and so on. She asked, \"What are you going to do, Mr. Paredes?\" and I told her, \"What I would like to do is get a PhD in English at UT and teach.\" She looked at me not angrily as it happened to Malcolm X later"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "fda99f37-c1cd-4ed5-948a-a489c1d13403"
+    },
+    {
+      "start_time": 980,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when he told a teacher that he wanted to be a lawyer, and he was told, \"That's not for people like you.\" She didn't put it that way, she just looked at me and said, \"Mr. Paredes, you have a facility with words, why don't you try to get a job at the local newspaper?\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "c305a7cc-2299-455f-a75f-dc96bd99c791"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I felt hurt and insulted, though she was telling me the truth. How was I going to go to the University of Texas? Finally, after working for a few months as a truck driver for La Perla bakery, I went and started working as a newspaperman, and writing. I was writing in Spanish also for El Regional"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "f8ae453c-867d-48de-8ed2-1160c2572335"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1057,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and other Spanish newspapers across in Matamoros. Of course, I felt that that's what I wanted to be, a writer, a poet. Some of my poetry in Spanish was protest, because I was writing protest poetry, isn't so bad. I published some of it not too long ago and in a little book called Between Two Worlds,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "X, Malcolm, 1925-1965",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Chicano Movement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "La Perla Bakery",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Regional--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "8ef606d3-a5aa-4db7-ab42-54cccdd3fa1d"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but a lot of it was horrible of course. I don't even want to think about it now. That's what I wanted to be and that's what people thought that was the only thing I was good for. The other thing was that I started playing the guitar and I started composing songs also."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Hinojosa, Tish, 1955-",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Boquita Colorada",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Polka",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        },
+        {
+          "tag": "Musicians--Texas",
+          "category": "Music"
+        }
+      ],
+      "uuid": "0571d25e-9a80-432f-b6e7-eabb534844b0"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you impressed when Tish Hinojosa worked with you on that? The collaboration, was that a lot of fun to do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Hinojosa, Tish, 1955-",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Boquita Colorada",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Polka",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        },
+        {
+          "tag": "Musicians--Texas",
+          "category": "Music"
+        }
+      ],
+      "uuid": "d7f8fd37-fc42-491e-a0c5-3e02f54c15a4"
+    },
+    {
+      "start_time": 1088,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, though, I did not burden her with my own songs. The only song that she has learned from me was one called La Yoguita Colorada, which is a Polka. What I taught her were the songs that I learned, traditional songs, and she has a tape out on that. No but I got to,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Hinojosa, Tish, 1955-",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Boquita Colorada",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Polka",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        },
+        {
+          "tag": "Musicians--Texas",
+          "category": "Music"
+        }
+      ],
+      "uuid": "f6e098fa-42b1-4f08-b367-4c1d6e9364a6"
+    },
+    {
+      "start_time": 1112,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had again some local recognition because of the songs that I sang on the radio. Some of them became very well known in a very limited area, people would send me little cards saying i like-. Of course, same thing happened as with the poetry. I was trying to have a new song every week and, of course,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Hinojosa, Tish, 1955-",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Boquita Colorada",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Polka",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        },
+        {
+          "tag": "Musicians--Texas",
+          "category": "Music"
+        }
+      ],
+      "uuid": "f74bffe4-68e9-487e-afd9-3911d97b9fc6"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "most of them are garbage but some of them are not bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Hinojosa, Tish, 1955-",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Protest Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Boquita Colorada",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Polka",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        },
+        {
+          "tag": "Musicians--Texas",
+          "category": "Music"
+        }
+      ],
+      "uuid": "c0af7bcc-a349-4555-8ce6-ce4d4f971adf"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is Brownsville still considered home for you? Do you consider Brownsville home?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "c6d5547e-afc1-424d-8271-d65f0400399c"
+    },
+    {
+      "start_time": 1150,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Emotionally it is, though, I don't go down there very often. It has changed a great deal. We didn't have all of those drug rings down there. We had a few tequileros but that was home - it was interesting, you might say. It was a small sort of thing. I remember when I was delivering papers, The Herald, it was--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "9cf419d2-0084-4419-a3c5-bab61ec4ee0c"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know what it is now, it was an afternoon paper but Sunday it was a Monday paper. I was given the 421 area, which went all the way down to the river. We had to start delivering them before dark, at least I had to. One Sunday morning before dawn"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "fcb2ee83-d7b5-43fb-9d81-eccb5f50c96f"
+    },
+    {
+      "start_time": 1204,
+      "end_time": 1225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was staggering along with my bag full of huge Sunday papers when I heard the, \"Tinkle, tinkle tinkle, tinkle, tinkle, tinkle\" and there come, I think there were three, they might have been four. Men with burlap sacks and you could hear the tinkle because of the bottles of tequila"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "9ac7b048-04a1-4d16-b295-bb1b082bfad5"
+    },
+    {
+      "start_time": 1225,
+      "end_time": 1243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they had in there. I remember they came up to-- I was walking toward them and they came coming toward me so I thought the best thing to do was just walk slowly. They came up to where I was and one of them said, \"¿Y ese? ¿Qué hacemos con él?\". [laughter] [Translation: \"And him? What do we do with him?]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "107edecd-1f71-4b42-8f39-3ef032e831e4"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said nothing, I just kept walking. Of course, they were joking, at least I think they were. [laughs] That was the kind of smuggling in our area. Of course, in the Great Lakes in New York there were big gangs, Capone, Legs Diamond, and others. We didn't have that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "224abbf6-82a1-490d-9f33-df26c86f94a6"
+    },
+    {
+      "start_time": 1266,
+      "end_time": 1293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now apparently we do have it with drugs. The city has grown so much and so many of the people I knew have either died or moved away, so there aren't as many when I go there. I haven't gone, as I said, for several years, since a younger brother I had was a principal at Putegnat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "3404bed5-a087-4abd-ab02-2969fb90cf57"
+    },
+    {
+      "start_time": 1293,
+      "end_time": 1315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the name was Putegnat Grammar School. It was the old Grammar School. He died of cancer but before he died I used to go, I would stay at his house, and we would go out. he knew everybody. He belonged to the VFW, we would go to the VFW, have a few beers, and I would see people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "fed62d1d-3180-4f5c-bdd4-98ed6e3f3bbc"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so I kept in touch with the people I grew up with. Since he died I have not and, of course, he died in 1984, that's 11 years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "4003abd0-bae3-4905-8955-ed5eb209392f"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have good memories of Brownsville?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5db07df2-ce90-45a2-8146-981d71d32795"
+    },
+    {
+      "start_time": 1333,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My memories were--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "c4fece75-fdef-4450-a524-0c0850c82902"
+    },
+    {
+      "start_time": 1334,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can we pause again? [video static]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "New York",
+          "category": "Places"
+        },
+        {
+          "tag": "1984",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Capone, Al, 1899-1947",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Diamond, Legs, 1896-1931",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Veterans of Foreign Wars",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Annie S. Putegnat Elementary School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "2ae49ab4-7176-468b-a4af-a7975226d5b0"
+    }
+  ],
+  "set": "Default",
+  "event_id": "e8a08348-ae3f-4fd7-aa42-f32df201033a",
+  "source_id": "64dd70bc-94e5-4beb-ad58-9741aa5a0cac"
+}

@@ -1,1 +1,5475 @@
-{"annotations":[],"set":"Default","event_id":"333f9730-cb66-4521-a7f7-d6192f6f4441","source_id":"ce8173f2-71d8-495c-963b-208e6a534bb1"}
+{
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- they're still living in Brownsville. They're married to, one is a Mrs. Reed, the other one is married to someone. But, He used to come to Brownsville quite often, Dobie did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Antonio Zavaleta",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "3de2c095-03e3-43e5-ae33-6e78e7569ec5"
+    },
+    {
+      "start_time": 18,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was best in a little group like this, or around a campfire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "67e60f34-e34b-4ae3-9f56-7395408b9283"
+    },
+    {
+      "start_time": 24,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A storyteller."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Antonio Zavaleta",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "42aa476d-6253-4288-ac72-3c5fc4e4de6e"
+    },
+    {
+      "start_time": 26,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. He tried to tell a few stories. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "3f1db540-2721-472f-b9d4-38aa8e18a527"
+    },
+    {
+      "start_time": 33,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have very good hearing, now I'm wearing hearing aids, but we could barely hear him. [Looks over his shoulder] My wife is in the room. The story he told-- [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "be7cb361-426e-4865-8d23-6fe5dd0c21e6"
+    },
+    {
+      "start_time": 46,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He made it, he bowdlerized it. It's about the rabbit-- No, I think it's the tlacuache, the possum. No, no, the rabbit. That's right, I'm mixing it up. A rabbit is walking along a trail and the coyote says, \"I'm going to catch you this time\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "d4856448-f5cc-4fa4-bb90-dbdba8082dbc"
+    },
+    {
+      "start_time": 71,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll tell it to you, I'll change to Spanish or the way I learned it. So the coyote played dead, he laid down. The rabbit comes and stop, \"¿Este coyote está muerto? Sí dice, pero cuando los coyotes mueren, estiran la pata\". El coyote estira la pata, y dice, \"Pero después tiran un pedo\".\n[Translation: \"Is that coyote dead? Yes, he says, but when a coyote dies, they stretch out their leg. The coyote stretches out his leg, and then he says \"But after they let out a fart.\"]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "462a4267-bef3-4402-972f-92e248581e56"
+    },
+    {
+      "start_time": 97,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El coyote, \"Strained and strained\", and he shit-- [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "e31830e1-7b27-43c1-895d-796bffbc48e7"
+    },
+    {
+      "start_time": 107,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, Dobie bowdlerized it and said he was supposed to stick out his tongue. Anyway, that was all I knew of Dobie. When I was in The Herald, Dobie was very much in the news. His books were really hitting. Everybody was writing articles about how Dobie knew everything about-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "93a42966-7ff5-476f-be72-6aef5120b91b"
+    },
+    {
+      "start_time": 132,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He knew the Mexicans better than the Mexicans knew themselves. They would have these outrageous stories. One that I remember, that's why I came to that, was the one about the origin of Wetback, that stuck in my mind because it shows the prejudice and the stereotypes. It happened this way. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "f233df1c-3d14-49da-90e4-f1085d66b82e"
+    },
+    {
+      "start_time": 151,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexicans would jump into the river. They were too dumb to take their clothes off and put them on something, jumped in the river with their clothes on. They swam across and once they got across, what was the first thing a Mexican would do? He would lie down to take a siesta, he would lie down"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "8ba9d737-ccb3-4903-ad4e-4a64287daafa"
+    },
+    {
+      "start_time": 169,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "on his back. When he woke, the sun had dried his clothes except his back. That's why Mexicans were called Wetback. You can understand if that's what I heard of Dobie, when that novel was finished in 1939. I met Dobie in 1950, 1951 when I came back from the Far East."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "fea69f99-523e-4329-a926-2cbd1376be7f"
+    },
+    {
+      "start_time": 197,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You would understand why that satire is so ferocious. I knew the man. He was a very nice, very nice old man, sweet old man. Something of a fraud as far Mexicans were concerned, but not in an offensive way. He was a nice guy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "East Asia",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dobie, James Frank, 1888-1964",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Racism",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Etymology--Wetback-Mojado",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore--James Frank Dobie",
+          "category": "Publications"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "e8511c86-4350-4953-af33-03e0d5e8827b"
+    },
+    {
+      "start_time": 217,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You attended the Brownsville Junior College. Do you have any memories of that? Any kind of recollections of your educational experience there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Manautou Building",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1929",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Garza, Jesus",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Manautou, Enrique, 1885-1962",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Eliseo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Lorenzo, 1904-2003",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Del Castillo, Jose A, 1877-1956",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Amelia Garza, 1910-1994",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "The Great Depression",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tuberculosis",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Gambling",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stock Market Crash, 1929",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Brownsville Title Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "f59e5741-722e-4b4f-9f27-a6188c8ab6f1"
+    },
+    {
+      "start_time": 223,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, there things began to change. Really, what began to change was the Depression. I was doing very well in school but the Depression wiped us out. My eldest brother and my father had a dry goods store on Washington Street. It was catty-cornered from Manautou, I don't know whether Manautou exists still,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Manautou Building",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1929",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Garza, Jesus",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Manautou, Enrique, 1885-1962",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Eliseo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Lorenzo, 1904-2003",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Del Castillo, Jose A, 1877-1956",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Amelia Garza, 1910-1994",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "The Great Depression",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tuberculosis",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Gambling",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stock Market Crash, 1929",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Title Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "33d12eb9-2e6a-4cba-b148-5e7ae66a7c1b"
+    },
+    {
+      "start_time": 254,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "called La Campana. My second brother had a very good job at the Brownsville Title Company. In fact, he was looking all those titles and discovering a lot of the chanchullos [scams] that had happened. But it just happened, my brother Eliseo was a gambler. He kept,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Manautou Building",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1929",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Garza, Jesus",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Manautou, Enrique, 1885-1962",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Eliseo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Lorenzo, 1904-2003",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Del Castillo, Jose A, 1877-1956",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Amelia Garza, 1910-1994",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "The Great Depression",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tuberculosis",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Gambling",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stock Market Crash, 1929",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Brownsville Title Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4b5c1c1b-7a68-4168-8d74-667443b6bd3e"
+    },
+    {
+      "start_time": 280,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the better business was the more he put into it. In 1929 things were doing so well, that he even borrowed money to put more into the store. Then the crash finished it besides the bank where he had the money, my father. The cashier had been gambling on his own on the stock market, and he had been using the money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Manautou Building",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1929",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Garza, Jesus",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Manautou, Enrique, 1885-1962",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Eliseo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Lorenzo, 1904-2003",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Del Castillo, Jose A, 1877-1956",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Amelia Garza, 1910-1994",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "The Great Depression",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tuberculosis",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Gambling",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stock Market Crash, 1929",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Title Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "8b9ec7e8-8ce9-47f7-97d6-c751f5f60aa5"
+    },
+    {
+      "start_time": 306,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He went to prison later, so he was wiped out. Meanwhile my brother went to see the doctor, doctor Del Castillo, because he had probably a very bad allergy. The doctor told him that he was tubercular and he had better leave his job. He had just married. His wife was a Garza, in fact she was an Aunt"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Manautou Building",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1929",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Garza, Jesus",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Manautou, Enrique, 1885-1962",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Eliseo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Lorenzo, 1904-2003",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Del Castillo, Jose A, 1877-1956",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Amelia Garza, 1910-1994",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "The Great Depression",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tuberculosis",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Gambling",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stock Market Crash, 1929",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Title Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "db70f79f-f43e-4779-89cd-c890d586713e"
+    },
+    {
+      "start_time": 339,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of the city manager here in Austin now, Jesús Garza. Her father had a big dairy farm, so he went and worked over there to be out in the fresh air. Of course, getting up at 3:00 o'clock in the morning, [laughs] working all day. Finally, it turned out he wasn't a worker."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Manautou Building",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1929",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Garza, Jesus",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Manautou, Enrique, 1885-1962",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Eliseo",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Paredes, Lorenzo, 1904-2003",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Del Castillo, Jose A, 1877-1956",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Paredes, Amelia Garza, 1910-1994",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "The Great Depression",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tuberculosis",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Gambling",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Stock Market Crash, 1929",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Brownsville Title Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "bfdf4892-d0cc-4c73-91ae-94a9d6d4124d"
+    },
+    {
+      "start_time": 367,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He went back, he got a job again, but during that period our family was wiped out. I started having to work a little bit. My grades went down to a certain extent. I started running into trouble with high school teachers. By the time we got to high school, even to junior high,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0621fc16-a855-448b-98b3-ca52b5904664"
+    },
+    {
+      "start_time": 387,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the situation had been reversed. Because all of those mexicanos that had been with me in grammar school had dropped out. There were relatively few. For example, in one class, I remember, I never was able to find out why the lady that taught that class, Ms. Bell was her name, married"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "5a645c61-1198-41c4-b7f1-1e71128fddb7"
+    },
+    {
+      "start_time": 413,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a traveling salesman that came and visited me here. But in one class, four of us were put into a special ancient history class. The other three were Anglos, except for me. It was a real wonderful thing, but through junior high my friends started dropping out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "5baf87c3-21f3-4037-b320-63a8b8e5aeaf"
+    },
+    {
+      "start_time": 436,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Really, the friends that I had in college, had gone to Saint Joseph's. There I had problems, especially with some very stupid teachers. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "8c48b8b8-25ad-4def-b277-127ff6b30df8"
+    },
+    {
+      "start_time": 454,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the reason was that, and we might come up on that, on the most important thing as far as education or people come. Three things, money, money, and money. I'm sure that some of those teachers that came from other places, they must have not been able to get a job somewhere else,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "fa738865-0bd5-47a0-8535-758afb494b8e"
+    },
+    {
+      "start_time": 477,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so they got a job there in Brownsville. I had especially trouble with a teacher I had in Junior English. For my term project I wrote a little short story that was published in the annual. I was just a junior in high school and this was the junior college annual. I made A's on everything"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "5aa0ba40-b39a-4117-93a3-169bc30572b6"
+    },
+    {
+      "start_time": 508,
+      "end_time": 534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but she failed me. She failed me because I would not tell her that I liked Walt Whitman. I did not like Walt Whitman because all the poetry that I had heard, heard, was with rhymes and rhythm, both in Spanish and English. She gave me a book of Walt Whitman and told me, \"This is great poetry.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0ed3bb68-5f18-4e70-9df2-5b1cd6d1f96c"
+    },
+    {
+      "start_time": 535,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said, \"This is gibberish, this is prose. I don't understand it.\" We had several fights in that. She felt that I had insulted her. When I came back, I went to take Junior English again next year. The principal would tell me, \"Well just go apologize to her.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "72517775-2044-49dd-8981-2a80bb958d9d"
+    },
+    {
+      "start_time": 560,
+      "end_time": 568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I apologized to her. Not until I came here that I found that she gave me a C anyway in the course. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "c352ea0f-0996-4531-b5a5-9b0e82b24bb4"
+    },
+    {
+      "start_time": 568,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There we had prejudice, but not straight out. Because some teachers, Anglos also, were very decent, very decent. Some were not. The thing is that, when I was finishing my junior year, there was a contest given by Trinity College which was then in Waxahachie, not here in San Antonio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "b90481af-e2cd-497c-b3ec-e38aba025170"
+    },
+    {
+      "start_time": 601,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A poetry contest. It was this Junior English teacher that got it I suppose. She just put it on the bulletin board. It wasn't announced anywhere. I saw it, and on my own, I wasn't going to ask the lady. [laughs] I went and got the address and sent a poem on my own."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "698ecc3c-9acd-4bf0-8a56-5b6425f34e68"
+    },
+    {
+      "start_time": 636,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a sonnet \"Night,\" a very forgettable poem, really, but it won first prize. I found out when I was a senior already. The principal, an Anglo, I have a higher education because of him. He was a principal of high school and the dean of the junior college. He came to see me"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0ebe2f66-f650-4f91-b776-f01145b0865c"
+    },
+    {
+      "start_time": 666,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because he had asked, \"Who sponsored this kid?\". And nobody knew. I told him that nobody did. He said, \"You mean on your own you did all this?\". I said, \"Yes.\" So he became interested in me, now during junior college I had him. He was by the way, he had been the coach, the football coach."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "6cbd5803-b6e0-421f-a248-0876c5cd3d33"
+    },
+    {
+      "start_time": 689,
+      "end_time": 710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He had been fired as a coach because we got to high school. We had the Screaming Eagles went, I think, all the way to the semifinals, and they were defeated. They fired him as a coach, but he became dean of the college, and he was a good dean. Before I even heard of Franklin D. Roosevelt,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "b7405d0a-741d-4735-b4d2-432e9fe65a50"
+    },
+    {
+      "start_time": 710,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I heard the term a New Deal from him. I took a course, and I think it was called Civics at the time. When we graduated, my grades were only so-so. He recognized me, not only because I had won this prize, because of my initiative, doing it on my own."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "bac16457-eb3e-44a8-b0d1-335e57bc0126"
+    },
+    {
+      "start_time": 737,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, by the way, this teacher who had given me a C, asked me what the prize was. They had given me a book cover made out of tulle leather from Spain. She said, \"It's better than having given you a book of lousy poetry.\" That told what she thought of poetry and here she was teaching poetry"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "82416958-2901-4d44-9099-5145bcfbc9c4"
+    },
+    {
+      "start_time": 763,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in the junior level. Well, school ends, I get my high school diploma. That was it. Nowhere to go. I was standing on a street corner in Brownsville, I think it was Levee instead of Elizabeth, with a few other kids. Not looking for trouble, just standing around waiting for it to come around, I guess."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "85923b94-88d5-4fcf-99d2-2036479a3f4e"
+    },
+    {
+      "start_time": 795,
+      "end_time": 797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Spain",
+          "category": "Places"
+        },
+        {
+          "tag": "1920s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Roosevelt, Franklin D, 1882-1945",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Bell Sewell, Allie, 1904-1970",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Night--Sonnet--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville High School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Ancient History",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "e2ac0031-d836-4cb1-956d-e55f4fefd328"
+    },
+    {
+      "start_time": 797,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the dean and principal drove by in his little Chevy it was a roadster with a rumble seat. I don't know if you've ever seen it. He saw me, he stopped and backed. This was already late June, I think. He called me, I went up, and said, \"Are you going to junior college?\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "7c3f66f1-6657-4128-8e7d-c86817250fcc"
+    },
+    {
+      "start_time": 820,
+      "end_time": 850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said, \"No, I'm not I don't have the money for it.\" \"Did you apply for student assistantship?\" I told him, \"What's that?\". Now, talk about prejudice. The lady that was dean of the college was involved in this, but she never thought of Mexicans in that category. I told him I didn't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "1b863cc6-efc2-482d-9e7d-dfb53921cb3c"
+    },
+    {
+      "start_time": 850,
+      "end_time": 878,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He said, \"You write me a letter. The deadline was in April, but you write me a letter and I'll get you an assistantship.\" That is how I got to go to junior college. There were very few of us Mexicanos. I think there were three of us men that we, for the rest of the time, we were together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "54c610aa-a58e-4404-a79f-658e364fae95"
+    },
+    {
+      "start_time": 879,
+      "end_time": 885,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He used to call us, \"El flaco, el chaparro y el grandote\". Guess who was the flaco. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "01e13200-6d9b-48b6-982e-c3f5187b764b"
+    },
+    {
+      "start_time": 885,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El chaparro was Roberto Ramírez. He was really short. El grandote was Sabas Klahn who was almost 6 feet. At that time being 6 feet was very very tall. We made it through but after that there was nothing. My English teacher in junior college was a very good teacher and she was a very good reader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "9b721125-f3fb-488e-b6d0-020c4fedc840"
+    },
+    {
+      "start_time": 920,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By the way, I learned, I went to the public library and got a copy of Leaves of Grass and sat there reciting it to myself. All of a sudden I saw the rhythm all by myself. I learned what Whitman was about because that woman never attempted to read it to us. Now, Ms. Heyman in junior college"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "28122db5-280a-454e-92c7-da53aa427588"
+    },
+    {
+      "start_time": 950,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "did and she had a beautiful speaking voice. Now, when we're ready to graduate, I saw her and she told me, \"Mr. Paredes, what do you intend to do after college?\". I told her, \"What I would like very much is to go to the University of Texas and get a PhD in English.\" At that time,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "bfda767d-7a7a-4ff2-8d34-814bbcf6c9f1"
+    },
+    {
+      "start_time": 980,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was angry, but later I saw the truth of it. She said, \"Mr. Paredes, you have a facility with language. Why don't you try to get a job with the local paper?\". That really hurt me. However now, in hindsight, I see she was right. At that time there were no scholarships for Mexicans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Klahn, Sabas, 1915-1992",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ramirez, Roberto, 1913-1982",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Whitman, Walt, 1819-1892",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Heyman, Charlotte, 1899-1985",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Childhood friends",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Youth",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Leaves of Grass--Walt Whitman",
+          "category": "Publications"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4ea5e4fc-9208-40a0-8dac-7033ff779d87"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were no scholarships for Mexicans in 1950."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "134c5fb0-5d5c-4d7d-aecb-774767857cad"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were always no Mexicans, right? At UT?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Antonio Zavaleta",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "482a5602-dae7-4229-8689-f23916590d7b"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I came on a US army scholarship, the GI Bill. She knew that I had already written several little pieces for the Brownsville Herald. I went and drove a bread truck for a while and did a few other things. Finally, I saw the light and went and got a job at the Brownsville Herald."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "6d178701-3974-4748-9732-541fe607948e"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If it hadn't been for this dean, I never remembered his first name. He was known as Red Irvine. Irvine was his name. He was fired by the way, while I was a sophomore. Bobby García was a lawyer in Brownsville. Once told me that he became a book agent, but I never heard from him again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "8336745c-9e27-4a89-b978-27d90b1bd78b"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think if I had not had those two years of junior college courtesy of Red Irvine, I would not have had the guts, you might say, to come back at the age of 35 and to start as an undergraduate here at the University of Texas. I stayed overseas until 1950 but I took a few courses by correspondence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "be1fdbf7-3683-4408-ae17-3b5966779d10"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 12 months straight I got my BA. After that, by that time I was offered a job. I asked for a job as a grader but my creative writing teacher, I went to see him. I still know Gerald Langford, he's a good friend. He's only about four years older than I was. I told him that, would he recommend me as a grader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "16c21496-b074-4c3c-a876-6f75e016f700"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He looked at me and said, \"No.\" I thought I had good-- I would recommend you as, what they call them, as a teaching fellow. Really, a teaching fellow was a teaching-- You taught one course. So I started teaching in 1951. Of course, I worked like hell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "75e5908e-8461-4f3d-8639-e21bc763a531"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let my wife run the house and everything while I worked to get two degrees in, let's see, 51. In five years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Japan",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1951",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Irvine, JW Red, 1903-1972",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Langford, Samuel Gerald, 1911-2003",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Paredes, Amelia Sidzu Nagamine, 1921-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "US Servicemen's Readjustment Act of 1944",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mentors",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United States Army",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "f874c71f-5339-4e6d-b417-8ff864557134"
+    },
+    {
+      "start_time": 1179,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What motivated you, Dr. Paredes, during those times? During the 1950s when you were at UT?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1963",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dugger, Ronald Edward, 1930-2025",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Simmen, Edward, 1933-2014",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Short stories",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait--Edward Simmen",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "936c4dd3-20e7-4b49-a14f-4157a672f008"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fact that this had been my ambition, and I knew that time was running out. Now there are people that are coming back to school. In 35 you are middle age. In that first year I was sitting with young kids. After that, I went into graduate school, of course, and it was different."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1963",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dugger, Ronald Edward, 1930-2025",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Simmen, Edward, 1933-2014",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Short stories",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait--Edward Simmen",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "687b480f-b89b-4b53-b1ac-88769ad01870"
+    },
+    {
+      "start_time": 1219,
+      "end_time": 1244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wanted to get it and I wanted to give our side. I had written this now. Nobody even wanted to read it. I even forgot about it. I had written some short stories. By the way, I have a book of short stories that's out now. Those were not-- Nobody wanted them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1963",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dugger, Ronald Edward, 1930-2025",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Simmen, Edward, 1933-2014",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Short stories",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait--Edward Simmen",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "5b61f3d4-ea4c-4790-ad92-ca72eac7c001"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One that I wrote in 1939, The Hammon and the Beans. I sent it all over. When I came back in 1950, again I sent it. Then, Ronnie Dugger of The Observer. I had been giving him some things, non-fiction. Once he asked me, \"Do you have anything for the paper, for the Observer?\". No but I have a short story"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1963",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dugger, Ronald Edward, 1930-2025",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Simmen, Edward, 1933-2014",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Short stories",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait--Edward Simmen",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "95245bd7-8448-4c05-a20c-31815c2d073e"
+    },
+    {
+      "start_time": 1274,
+      "end_time": 1302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He said, \"Well let me see it.\" He published that short story in 1963. Then Edward Simmen reprinted it in a little book called The Chicano, from Caricature to Self-Portrait and it took off. I don't remember how many times it's been reprinted since then. The situation has changed. We no longer are pariahs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1963",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dugger, Ronald Edward, 1930-2025",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Simmen, Edward, 1933-2014",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Short stories",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait--Edward Simmen",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "33319418-89ba-4d4b-b9d3-ea9ed118ce8e"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're beginning to understand finally what we're trying to say. I remember. There's a character named Chonita, in The Hammon and the Beans . I remember one university press said they had liked the story, but they felt that there should be more about Chonita. They wanted the story to be cute, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1963",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dugger, Ronald Edward, 1930-2025",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Simmen, Edward, 1933-2014",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Short stories",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait--Edward Simmen",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4952a1a9-6e86-4016-b847-1e4dde85c7a7"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you're writing, either you wrote about lovely señoritas or--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "1939",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1963",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Dugger, Ronald Edward, 1930-2025",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Simmen, Edward, 1933-2014",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Short stories",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait--Edward Simmen",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "c5d928c0-8854-4094-8533-f04dec9effb0"
+    }
+  ],
+  "set": "Default",
+  "event_id": "333f9730-cb66-4521-a7f7-d6192f6f4441",
+  "source_id": "ce8173f2-71d8-495c-963b-208e6a534bb1"
+}

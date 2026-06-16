@@ -1,1 +1,4005 @@
-{"annotations":[],"set":"Default","event_id":"70d5abd4-534d-4222-863a-a0e085066192","source_id":"e638469c-dbd5-4e43-89e2-84330182aa0c"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Other footage: Work crew and fire department in a river at night - no audio]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "None--Silent",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "037dee00-d4a7-455f-8b2b-3e577caac0dc"
+    },
+    {
+      "start_time": 283,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Other footage: Hand and a pen on an overhead projector, and then a young boy]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "None--Silent",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "e209419d-c62a-476d-b91b-e767deb4cec7"
+    },
+    {
+      "start_time": 399,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Americo plays guitar]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "10295d47-910d-461b-bbb8-fca81f76a03b"
+    },
+    {
+      "start_time": 421,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you recall a favorite song, Dr. Paredes, that when you sang on the radio in Brownsville the people used to request? Was there one particular song that they asked for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "ce73a89b-a778-422f-8541-7dd17a02dd2e"
+    },
+    {
+      "start_time": 434,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soñe, which is one of my songs but I transcribed it for easy piano but I don't know what it is. That was one that was pretty-- Here the tango, tango was very popular, tango and bolero. [video cut] Sort of autobiographical. [background noise]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "60bd95ff-5595-4dc5-bd86-aac95d6c6d05"
+    },
+    {
+      "start_time": 469,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That you wrote."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "64d735d7-b96f-4570-966d-9f8de13c5036"
+    },
+    {
+      "start_time": 471,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You wrote that song, right? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "9862d7b5-be0f-4d88-822e-5d14f79d8523"
+    },
+    {
+      "start_time": 473,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes- [Americo plays guitar] ... My fingernails hurt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "7158882d-e4b8-444c-bfd9-ef195a26a810"
+    },
+    {
+      "start_time": 502,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have to keep them nice, don't you? -Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "d83b1a55-aa08-438e-829b-532690ce4501"
+    },
+    {
+      "start_time": 503,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes [laughs]. Because they crack and again, old age does that to them. It's best to keep them down, let them get a little caloused. But I just enjoy playing. The hearing, I'm wearing hearing aids but I can tell-- [crosstalk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "76584438-1ba6-49a6-99ab-a89593e374a8"
+    },
+    {
+      "start_time": 533,
+      "end_time": 534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Would you like me to try? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "2f9ed8ed-3e03-459c-99ad-d33c9a0bc3db"
+    },
+    {
+      "start_time": 534,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, but I think that--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "1e3f68b4-69be-4473-a21e-0ce9724e085f"
+    },
+    {
+      "start_time": 536,
+      "end_time": 541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They look like they're in nice condition, though, the strings. They look strong enough."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "e8a12945-95af-44ca-910c-dad3006ee466"
+    },
+    {
+      "start_time": 541,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "-they're likely to go, I think. [guitar playing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "4b5fbe3a-50c1-47c8-9786-afeceb0280f5"
+    },
+    {
+      "start_time": 559,
+      "end_time": 576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The harmonics help a great deal. [guitar playing] [video cut]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "cc0f67e0-dda0-4147-8ce3-506ae97ad54d"
+    },
+    {
+      "start_time": 577,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That one is still-- [Americo plays guitar]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "1c603258-4e24-4055-8fbe-0f13c4bec1a4"
+    },
+    {
+      "start_time": 590,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now it sounds like I missed it up for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "7852fc7f-2fb4-4f51-8945-f65182ea7b70"
+    },
+    {
+      "start_time": 592,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, you- [crosstalk]. It's closer to it, the thing is the the strings--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "6a017147-a56a-4c7c-af92-8be5e4103306"
+    },
+    {
+      "start_time": 601,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stretched?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "f95728b2-d8d7-42ba-aefe-17a68da472bf"
+    },
+    {
+      "start_time": 602,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They stretch immediately because they were new strings. I don't know when I last played this. Maybe two or three years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "b5026ad6-269b-45c1-87be-f00760193ca9"
+    },
+    {
+      "start_time": 614,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of the music that you learned in different cordings as well, the setting of the strings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "c96d8240-e106-4cc1-95a7-9aee7693a862"
+    },
+    {
+      "start_time": 625,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I knew it before. I can't remember where it was. I think when I started working on fiction. Because I think I stopped, because I had several books that I wanted to get out. I began to give it up around 91. I had put it away then."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "a56605e4-afe2-4810-94fe-d546f81a4200"
+    },
+    {
+      "start_time": 650,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It looks pretty brand new there. [background noise]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Man",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "baebfce7-4fa5-40d7-aa45-4268fc73d931"
+    },
+    {
+      "start_time": 655,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manuel Peña has played it recently, but not in the past two or three years. [video cut] -come back to us. [Americo plays guitar]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "7ebb3834-ac11-4e01-842b-3d6edd1f3e86"
+    },
+    {
+      "start_time": 678,
+      "end_time": 695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's a traditional musician. [Americo plays guitar]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "7e27bc76-0442-46c1-9c3b-07111bbbd914"
+    },
+    {
+      "start_time": 695,
+      "end_time": 698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I gave you some of it. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "9a368a47-9d35-49c9-bd6a-d04c2f74daa6"
+    },
+    {
+      "start_time": 698,
+      "end_time": 728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's La Petenera, a very well known song. [Americo plays guitar]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "9c887010-9356-4267-8e93-3336cda5cadd"
+    },
+    {
+      "start_time": 731,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Dr. Paredes. Thank you very much. [crosstalk] I would like for you to-- [video cut]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unidentified Speaker",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "1991",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Peña, Manuel H, 1942-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Musicians",
+          "category": "Music"
+        },
+        {
+          "tag": "Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Genre--Tango",
+          "category": "Music"
+        },
+        {
+          "tag": "Genre--Bolero",
+          "category": "Music"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--Soñe--Américo Paredes",
+          "category": "Music"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        },
+        {
+          "tag": "Performance",
+          "category": "Music"
+        },
+        {
+          "tag": "Song--La Petenera",
+          "category": "Music"
+        },
+        {
+          "tag": "Radio feature",
+          "category": "Music"
+        }
+      ],
+      "uuid": "5dc2b918-3764-46e9-a89f-911b42006e59"
+    },
+    {
+      "start_time": 741,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not doing anything new with a lot of stuff that I have left. It's trying to read too many things at the same time without-- I think when I started music I gave up writing. Then, when I went to the scholarly writing, I didn't do very much of what I was playing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "577b8765-12b7-4576-968d-5e003374caf2"
+    },
+    {
+      "start_time": 767,
+      "end_time": 801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Around 90, 89 or 90, the books that I published date from that time. I decided that if I wanted to finish them and leave them, they can stay behind me. The fact that I have played the guitar doesn't mean anything [inaudible]. I started working first on a book of poems because my younger colleagues had read some of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "13d93d2b-3c99-47a8-9682-fe54cf554431"
+    },
+    {
+      "start_time": 801,
+      "end_time": 828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had probably some-- They encouraged me to publish it. I got them together and sent him to Nicolás Carreras, arte público at Houston. He liked it, but he wanted a title. We couldn't agree on the title. When we were phoning or writing. I would suggest the titles, he said, \"No.\" He would suggest I title I didn't care for."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "ab41a995-2182-4579-93cc-a2c47ebee7dc"
+    },
+    {
+      "start_time": 829,
+      "end_time": 849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During that interchange, he asked me, \"Do you have any fiction?\" I thought, \"Well, I have a novel there that I haven't looked at for a long time.\" I dug it up and sent it to him. He liked it, but I told him, \"If you publish it, I would like for you not to edit it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "107c8c3e-4487-4623-86c4-97010546d3c3"
+    },
+    {
+      "start_time": 849,
+      "end_time": 875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In other words, this is more historical thing.\" He printed it without any addition and there are a number of things, there's some inconsistencies. Spellings that we used to use, at least in journalism. For example, at that time cigarette just E-T instead of E-T-T-E, and so on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "a9b2eb5f-edcd-4eba-9092-6b8312409791"
+    },
+    {
+      "start_time": 877,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One character has a different mother's name and are using the father's family name and the mother's family name. Francisco Lopez Santos, I changed his name in different places."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "e47493fb-b7a8-4eab-a5c9-45e662065fc4"
+    },
+    {
+      "start_time": 892,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The name of the novel is what, Dr. Paredes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "351e0785-8f63-418d-bbb8-cc8a6a837a6b"
+    },
+    {
+      "start_time": 896,
+      "end_time": 918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "George Washington Gómez . That appeared before the book on poetry. Finally, Ronaldo Hinojosa suggested Between Two Worlds , which is a quotation from Matthew Arnold. We use it and then I published a collection of short stories. The title is The Hammon and the Beans and Other Stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "95f1ee46-7443-45cc-b642-b983c27bdb86"
+    },
+    {
+      "start_time": 920,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have a copy of that here in your library? [background noise]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Houston",
+          "category": "Places"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1990",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Carreras, Nicolás",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando, 1929-2022",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Arnold, Matthew, 1822-1888",
+          "category": "People - Artists, writers, musicians"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Publishing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Fiction Writing",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "George Washington Gómez--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Between Two Worlds--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Arte Público Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Instrument--Guitar",
+          "category": "Music"
+        }
+      ],
+      "uuid": "96a3be7a-bc11-4821-beb7-32953fa94e26"
+    },
+    {
+      "start_time": 933,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't have any more stories about Las Dos Repúblicas, right? Off the record."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "309a30e1-8049-42af-8c68-f9461fa84d83"
+    },
+    {
+      "start_time": 939,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's another project if I get to be a 100 because I've been asked to write my autobiography. I don't think I want to do that, but little sketches, semi-autobiographical sketches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "3163cb6b-492b-48c0-8a2b-7a8c5c68704a"
+    },
+    {
+      "start_time": 955,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're working on that as a project?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5a6abbe2-ea11-472b-b3b0-d93253ed57c5"
+    },
+    {
+      "start_time": 957,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have it written down. I haven't started on it. Except perhaps one, The Wrong. Mi Tia Pilar was a dead shot with a 30-30, and that's more or less the way that the little vignette goes. She missed her shot only once because a mule got in the way. She missed the target and it was just as well"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "4bd10436-a7af-4fe1-a1b2-215af7ef8d63"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because her target was her son-in-law. [laughter] He was beating up on her daughter. They lived across the river and the son-in-law and wife lived on the Texas side. Apparently, the son-in-law started staying in town Saturday night, then he didn't come home until early Sunday. The last time he came in early Monday"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "7f73647d-5f24-43e6-9a68-a9c482439587"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "told her to get up and make him breakfast and she wouldn't, so he drags her out of bed and hit her around. She waited, because they were vaqueros. After he went and had breakfast at his parent's house with her [inaudible] . She went down to the river. Every family that lived on the edge of the river"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5f9a33f3-150f-4875-aee2-f5498291dcdb"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "had a little boat hidden in the reeds. She took it out, rode across to her mother's house. Her mother, mi Tia Pilar, doctored her bruises, put her in bed and she didn't say anything to her. Menfolk were outdoors campeando, but when it got close to sunset,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "23b7803e-6093-4269-bf27-8a19e5bed599"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "she took down her Winchester and went to the edge of the river because the husband and son-in-law had the chore when they came in to dry the mules and the horses down to water. Usually when the river was more or less full, not a flood, but there was a kind of a cliff like, on the edge--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "fbe2c8c0-cb70-455b-9abe-f17c913c3375"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It sat, cut down on the bank to make a kind of slope. She knew he would come and leave to dry the horses and the mules. She got ready there when he came, he was on foot. She took a beat on him and the mule got in the way. By the time she moved that lever, he was hiding in--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "29655053-c02f-4d82-88b4-5d0d84a70221"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He got the message, right? [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "850db3c8-fc9d-4148-ab70-b509c8e08c43"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was hiding in the tules, in the reeds"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "36f73eaf-6be6-47b8-b2de-d697bcfd58ff"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He wasn't as hombre as he was on Saturday night, ¿verdad?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "26d3b514-28c6-41e1-92e3-9eb95e6fb959"
+    },
+    {
+      "start_time": 1143,
+      "end_time": 1144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "db2e34ba-9e45-4ef6-b4ce-1e41a10c6f24"
+    },
+    {
+      "start_time": 1144,
+      "end_time": 1165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She kept yelling for him to be a man, but [inaudible] folk had heard the shot. They rode up and disarmed her. Later they settle things. [video cut]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas-Mexico Border",
+          "category": "Places"
+        },
+        {
+          "tag": "Paredes Cisneros, Pilar",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Autobiography",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Vignette",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Winchester rifle",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Domestic violence",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Extended family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "River",
+          "category": "Environment"
+        },
+        {
+          "tag": "Reeds",
+          "category": "Environment"
+        },
+        {
+          "tag": "Bank",
+          "category": "Environment"
+        },
+        {
+          "tag": "Cliff",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "b2715905-1fe6-4a5a-8913-7550afa86dad"
+    },
+    {
+      "start_time": 1165,
+      "end_time": 1175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[On screen: Black and white portrait of and older Americo Paredes sitting by a window]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Image On Screen",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Paredes, Américo, 1915-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Photos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "12c82ea8-c9cb-4e65-a7b2-3657d173bfe5"
+    },
+    {
+      "start_time": 1175,
+      "end_time": 1177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a wonderful picture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letty Fernandez",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Paredes, Américo, 1915-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Photos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "0b11873c-90be-4657-b67b-06c9837e1df3"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, there are many pictures of him. [background conversation]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amelia Sidzu Nagamine Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Paredes, Américo, 1915-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Photos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "09ddd5b3-6271-4c65-9f52-8628240991eb"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[On screen; The sleeve of the book 'A Texas-Mexican Cancionero' by Americo Paredes]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Image On Screen",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Paredes, Américo, 1915-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Photos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "739560db-50ec-4672-9549-de25a6743004"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background conversation]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amelia Sidzu Nagamine Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Paredes, Américo, 1915-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Photos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "02f660ac-66e9-44ea-a552-4252007a4adc"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[On screen; The book 'The Hammon and the Beans and Other Stories' by Americo Paredes]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Image On Screen",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Paredes, Américo, 1915-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Photos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "a83650ea-7d23-4351-aa52-3ba131d856d2"
+    },
+    {
+      "start_time": 1269,
+      "end_time": 1341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background conversation]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amelia Sidzu Nagamine Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Paredes, Américo, 1915-1999",
+          "category": "People - Paredes family and relatives"
+        },
+        {
+          "tag": "Photos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "ed852cc5-bd36-4ebe-abc3-664c831baec9"
+    }
+  ],
+  "set": "Default",
+  "event_id": "70d5abd4-534d-4222-863a-a0e085066192",
+  "source_id": "e638469c-dbd5-4e43-89e2-84330182aa0c"
+}

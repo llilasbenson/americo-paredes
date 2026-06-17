@@ -161,6 +161,26 @@
           "text": "Code-switching is defined as a switching from the linguistic system of one language or dialect to that of another (as for different social or cultural contexts). In this project the tag \"Code-switching\" is used across any sections where the practice of code-switching is the topic of discussion, and as a singular tag to document any instance where a Speaker in the interview performs code-switching. Within this project all code-switching is relative to English-Spanish bilingualism."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "People Categories",
+          "bold": true,
+          "underline": true
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Due to the large number of names and people referenced throughout the interviews, the People category was subdivided into smaller categories to improve navigation and discoverability of tags. Those divisions consist of: Artists, writers, musicians; Local and community figures (mostly from the South Texas region); Paredes family and relatives; Political or historical figures; Scholars and academics; and Unidentified (any person whose full name was indiscernible or not given). \n\n"
+        }
+      ]
     }
   ],
   "title": "Methodology",
@@ -171,6 +191,6 @@
   "slug": "methodology",
   "created_at": "2026-05-30T23:17:11.348Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-06-08T20:31:29.643Z",
+  "updated_at": "2026-06-17T00:20:39.306Z",
   "updated_by": "luzgonz-glitch"
 }

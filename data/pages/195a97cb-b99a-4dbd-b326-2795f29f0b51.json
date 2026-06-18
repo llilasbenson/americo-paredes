@@ -4,7 +4,8 @@
       "type": "heading-one",
       "children": [
         {
-          "text": "Annotations and Tag Groups"
+          "text": "Annotations and Tag Groups",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -30,7 +31,8 @@
         {
           "text": "Specialized Categories",
           "underline": true,
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -50,7 +52,7 @@
           "bold": true
         },
         {
-          "text": "Songs, Instruments, Genres, Musicians, Musical Works, Songwriting"
+          "text": "Songs, instruments, genres, musicians, musical works, songwriting"
         }
       ]
     },
@@ -168,10 +170,20 @@
         {
           "text": "People Categories",
           "bold": true,
-          "underline": true
+          "underline": true,
+          "textSize": "heading-three"
         }
       ],
       "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -191,6 +203,6 @@
   "slug": "methodology",
   "created_at": "2026-05-30T23:17:11.348Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-06-17T00:20:39.306Z",
+  "updated_at": "2026-06-18T16:20:58.104Z",
   "updated_by": "luzgonz-glitch"
 }

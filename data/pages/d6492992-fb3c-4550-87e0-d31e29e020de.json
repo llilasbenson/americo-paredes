@@ -25,8 +25,17 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Los Del Valle Oral History Project Archive",
-                  "textSize": "heading-two"
+                  "text": "Interviews with Américo Paredes",
+                  "textSize": "heading-one"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-two",
+                  "text": "Los Del Valle Oral History Project Archive"
                 }
               ]
             }
@@ -408,7 +417,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Interviews with Américo Paredes",
-  "updated_at": "2026-06-17T00:05:00.900Z",
+  "updated_at": "2026-06-18T16:16:41.752Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

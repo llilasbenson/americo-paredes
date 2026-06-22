@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Dr. Paredes continues discussing the publication of his dissertation, his relationship with the Chicano movement, and his time at the Brownsville Junior College."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -13,8 +21,7 @@
       "uuid": "e8a08348-ae3f-4fd7-aa42-f32df201033a",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +42,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1995 Part 2 of 5",
   "slug": "interview-1995-part-2-of-5",
-  "updated_at": "2026-06-05T02:23:12.337Z",
+  "updated_at": "2026-06-22T22:51:42.944Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

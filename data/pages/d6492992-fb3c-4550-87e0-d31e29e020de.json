@@ -164,7 +164,7 @@
           ],
           "left": 7,
           "top": 10,
-          "right": 10,
+          "right": 8,
           "bottom": 0
         }
       ]
@@ -185,15 +185,6 @@
           "text": "TABLE OF CONTENTS",
           "bold": true,
           "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-four"
         },
         {
           "type": "link",
@@ -417,7 +408,7 @@
   "created_at": "2026-05-19T20:43:26.867Z",
   "created_by": "llilasbenson",
   "title": "Interviews with Américo Paredes",
-  "updated_at": "2026-06-22T22:55:47.647Z",
+  "updated_at": "2026-06-22T22:57:10.950Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

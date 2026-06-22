@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This raw footage is an interview with Dr. Américo Paredes' brother, Lorenzo Paredes. Paredes talks about Américo and his other brothers, as he and Dr. Manuel F. Medrano look through a photo album and a book of poetry. Paredes also discusses his life, education, and work in Brownsville, Texas. The interview finishes with Paredes talking about his family history."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -34,7 +42,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview with Lorenzo Paredes",
   "slug": "interview-with-lorenzo-paredes",
-  "updated_at": "2026-06-05T20:16:22.672Z",
+  "updated_at": "2026-06-22T22:54:48.379Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

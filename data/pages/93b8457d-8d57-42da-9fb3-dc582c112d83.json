@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": " Dr. Paredes discusses his multi-racial friendships in school, the importance of bilingualism, and his time singing on the radio. He also talks about some photographs."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -13,8 +21,7 @@
       "uuid": "3c1ae2c3-5b20-462f-b676-4bd7b38da04a",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +42,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1995 Part 3 of 5",
   "slug": "interview-1995-part-3-of-5",
-  "updated_at": "2026-06-05T02:23:18.235Z",
+  "updated_at": "2026-06-22T22:52:16.856Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

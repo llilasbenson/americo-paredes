@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Dr. Paredes discusses photos of awards he has won and his time doing research in Mexico. The video cuts off as Dr. Paredes strums a guitar."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -13,8 +21,7 @@
       "uuid": "ad62baaa-98dc-4aa8-ac03-312f16cc1e29",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +42,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1995 Part 4 of 5",
   "slug": "interview-1995-part-4-of-5",
-  "updated_at": "2026-06-05T02:23:22.116Z",
+  "updated_at": "2026-06-22T22:52:53.274Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

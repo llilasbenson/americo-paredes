@@ -4,8 +4,112 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "bold": true
+          "text": "The links below will lead you to digital resources, collections and exhibits related to Américo Paredes and the topics discussed in these interviews."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://storymaps.arcgis.com/stories/9b45489e86954690a9ec539fcaced66f",
+              "children": [
+                {
+                  "text": "Mapping George Washington Gómez: An Interactive Geospatial Analysis of Américo Paredes's Mexicotexan Novel by Diana Noreen Rivera"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://scholarworks.utrgv.edu/losdelvalle/",
+              "children": [
+                {
+                  "text": "Los Del Valle Oral History Project at UTRGV"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://utvac.org/event/americo-paredes-life-between-two-worlds",
+              "children": [
+                {
+                  "text": "Lecture with literary scholar Ramón Saldívar, Américo Paredes: A Life Between Two Worlds"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://txarchives.org/utlac/finding_aids/00035.xml",
+              "children": [
+                {
+                  "text": "Finding Aid: Américo Paredes Papers, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin."
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://frontera.library.ucla.edu/",
+              "children": [
+                {
+                  "text": "Strachwitz Frontera Collection of Mexican and Mexican American Recordings at UCLA"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -14,7 +118,302 @@
       "children": [
         {
           "text": "",
-          "link": ""
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "References",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hinojosa, C. E., & Rodríguez, J. C. (2007, September 11). "
+        },
+        {
+          "text": "Américo Paredes: Musician, Scholar, and Folklorist",
+          "italic": true
+        },
+        {
+          "text": ". Www.tshaonline.org. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tshaonline.org/handbook/entries/paredes-americo",
+          "children": [
+            {
+              "text": "https://www.tshaonline.org/handbook/entries/paredes-americo"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Longoria, R. N. (2018, May 19). "
+        },
+        {
+          "text": "RAUL N. LONGORIA’S GENEALOGY DATABASE",
+          "italic": true
+        },
+        {
+          "text": ". Raullongoria.net. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.raullongoria.net/Genealogy/FamilyTree/index.html",
+          "children": [
+            {
+              "text": "https://www.raullongoria.net/Genealogy/FamilyTree/index.html"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.raullongoria.net/Genealogy/FamilyTree/index.html",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Montoya, J. (2020, January 16). Jose Cantu remembered as pioneer for Hispanic rights. El Rrun Rrun. "
+        },
+        {
+          "type": "link",
+          "url": "https://rrunrrun.blogspot.com/2020/01/jose-cantu-remembered-as-pioneer-for_16.html",
+          "children": [
+            {
+              "text": "https://rrunrrun.blogspot.com/2020/01/jose-cantu-remembered-as-pioneer-for_16.html"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Morín, J. R. L. (2005). The Life and Early Works of Américo Paredes. "
+        },
+        {
+          "text": "Western Folklore, 64",
+          "italic": true
+        },
+        {
+          "text": "(1/2), 7–28. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.jstor.org/stable/25474718",
+          "children": [
+            {
+              "text": "https://www.jstor.org/stable/25474718"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nájera-Ramírez, O. (n.d.). "
+        },
+        {
+          "text": "Américo Paredes – Notable Folklorists of Color",
+          "italic": true
+        },
+        {
+          "text": ". Notablefolkloristsofcolor.org; The American Folklore Society. "
+        },
+        {
+          "type": "link",
+          "url": "https://notablefolkloristsofcolor.org/portfolio/americo-paredes/",
+          "children": [
+            {
+              "text": "https://notablefolkloristsofcolor.org/portfolio/americo-paredes/"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Palomo Acosta, T. (1995, November 1). "
+        },
+        {
+          "text": "Narciso Martínez: The Father of Texas-Mexican Conjunto Music",
+          "italic": true
+        },
+        {
+          "text": ". Www.tshaonline.org. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tshaonline.org/handbook/entries/martinez-narciso",
+          "children": [
+            {
+              "text": "https://www.tshaonline.org/handbook/entries/martinez-narciso"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Romo, R. (2021, September 11). Ricardo Romo’s Tejano Report, Americo Paredes: Scholar, poet, musician, teacher, mentor. Latinopia.com. "
+        },
+        {
+          "type": "link",
+          "url": "http://latinopia.com/blogs/ricardo-romos-tejano-report-americo-paredes-scholar-poet-musician-teacher-mentor/",
+          "children": [
+            {
+              "text": "http://latinopia.com/blogs/ricardo-romos-tejano-report-americo-paredes-scholar-poet-musician-teacher-mentor/"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Weddle, R. S. (1994, December 1). "
+        },
+        {
+          "text": "Luis de Carvajal y de la Cueva: The First Spanish Governor of Texas",
+          "italic": true
+        },
+        {
+          "text": ". Texas State Historical Association. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tshaonline.org/handbook/entries/carvajal-y-de-la-cueva-luis-de",
+          "children": [
+            {
+              "text": "https://www.tshaonline.org/handbook/entries/carvajal-y-de-la-cueva-luis-de"
+            }
+          ]
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n"
         }
       ]
     }
@@ -27,6 +426,6 @@
   "slug": "additional-resources",
   "created_at": "2026-05-30T23:19:31.784Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-06-10T18:31:46.421Z",
+  "updated_at": "2026-06-22T22:37:44.002Z",
   "updated_by": "luzgonz-glitch"
 }

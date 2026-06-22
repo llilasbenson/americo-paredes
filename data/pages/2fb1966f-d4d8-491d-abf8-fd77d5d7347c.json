@@ -181,7 +181,15 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "An English translation of the transcript is available, and can be selected under Filter -> Annotation Sets."
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "An English translation of the transcript is available in the video player, and can be selected under Filter -> Annotation Sets."
                 }
               ]
             },
@@ -273,6 +281,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "In the second half of part 3 and most of part 4, there are various photographs positioned on an overhead projector on-screen with the dialogue occurring off-screen. At the end of part 4 and for the majority of part 5 Américo is photographed in his study playing his guitar. "
                 }
               ]
@@ -353,7 +369,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview Navigation",
   "slug": "interview-navigation",
-  "updated_at": "2026-06-17T00:22:41.656Z",
+  "updated_at": "2026-06-22T22:42:01.481Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

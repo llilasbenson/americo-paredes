@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The raw footage begins with a group dredging a river until 4:43. Video cuts to a young boy until 6:38. In the final segment Dr. Américo Paredes plays the guitar and talks about the publication of a book of poems."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -13,8 +21,7 @@
       "uuid": "70d5abd4-534d-4222-863a-a0e085066192",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +42,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1995 Part 5 of 5",
   "slug": "interview-1995-part-5-of-5",
-  "updated_at": "2026-06-05T02:23:24.881Z",
+  "updated_at": "2026-06-22T22:53:23.261Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

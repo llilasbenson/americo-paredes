@@ -4,6 +4,18 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Dr. Paredes discusses how his parents came to Brownsville, his advice for writers, and the publication of his dissertation "
+        },
+        {
+          "text": "With a Pistol in His Hand.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -13,8 +25,7 @@
       "uuid": "8fc575d5-d741-484b-b0ea-e71a0fbb4433",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +46,7 @@
   "created_by": "luzgonz-glitch",
   "title": "Interview, 1995 Part 1 of 5",
   "slug": "interview-1995-part-1-of-5",
-  "updated_at": "2026-06-05T02:23:08.951Z",
+  "updated_at": "2026-06-22T22:51:15.161Z",
   "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": false,

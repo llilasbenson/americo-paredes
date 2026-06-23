@@ -183,13 +183,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "People Categories",
+          "text": "",
           "bold": true,
           "underline": true,
           "textSize": "heading-three"
         }
       ],
       "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "textSize": "heading-three",
+          "text": "People Categories"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -218,6 +230,6 @@
   "slug": "methodology",
   "created_at": "2026-05-30T23:17:11.348Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-06-23T21:17:34.156Z",
+  "updated_at": "2026-06-23T21:18:02.780Z",
   "updated_by": "luzgonz-glitch"
 }

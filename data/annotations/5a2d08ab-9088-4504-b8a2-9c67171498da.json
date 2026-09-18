@@ -1351,55 +1351,6 @@
       "uuid": "737c74c0-c250-4e1f-9869-e461f20910bd"
     },
     {
-      "start_time": 0,
-      "end_time": 231,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Hay arriba estába Una página debe estar uno suelto."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Lorenzo Paredes",
-          "category": "Speakers"
-        },
-        {
-          "tag": "1959",
-          "category": "Dates referenced"
-        },
-        {
-          "tag": "1960",
-          "category": "Dates referenced"
-        },
-        {
-          "tag": "Unidentified, Mercedes",
-          "category": "People - Unidentified"
-        },
-        {
-          "tag": "Paredes, Américo, 1915-1999",
-          "category": "People - Paredes family and relatives"
-        },
-        {
-          "tag": "Paredes, Lydia",
-          "category": "People - Paredes family and relatives"
-        },
-        {
-          "tag": "Photos",
-          "category": "Subjects"
-        },
-        {
-          "tag": "Immediate family",
-          "category": "Biographical history"
-        }
-      ],
-      "uuid": "3870ad0d-34ad-4508-9a7e-9fcfe288e344"
-    },
-    {
       "start_time": 231,
       "end_time": 234,
       "annotation": [

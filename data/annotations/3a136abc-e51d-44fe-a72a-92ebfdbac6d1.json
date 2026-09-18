@@ -1,5 +1,4932 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had a series of acting directors, and you know the old saying, \"The one thing an acting director cannot do is act.\" [laughter] We just sat there and the whole thing was withering on the vine. Finally-- That's a long, long story with a number of, uh we could talk about that for several hours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "de la Garza, Rodolfo, 1942-2019",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "King, Robert D, 1936-2023",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0db2b6e4-9bf2-4950-b823-5237e795847b"
+    },
+    {
+      "start_time": 25,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, I convinced the new dean, Robert King, who was hated by a number of students, but to us he was good. I finally convinced him to let me find what people we had on campus that were ready to take over because I insisted that the director would have to have tenure,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "de la Garza, Rodolfo, 1942-2019",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "King, Robert D, 1936-2023",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "0175c689-9012-4d33-8045-c82cff21606e"
+    },
+    {
+      "start_time": 55,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so that he could go and bang on the dean's desk and not be fired, not be terminated. So I was allowed to look around with a committee and we chose two people, Ricardo Romo and Rodolfo de la Garza. The dean chose Rodolfo de la Garza, he was very good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "de la Garza, Rodolfo, 1942-2019",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "King, Robert D, 1936-2023",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "c81a02c1-5a0a-43d6-898c-46aaaa3da7d6"
+    },
+    {
+      "start_time": 78,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ricardo Romo went to San Antonio and did very well over there. Now we have him here. Really it was with Rudy de la Garza that we really got going with a good budget and with somebody capable and not afraid to talk back to the administration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "de la Garza, Rodolfo, 1942-2019",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "King, Robert D, 1936-2023",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "11f7f643-3177-4900-9722-13e730b81aac"
+    },
+    {
+      "start_time": 102,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Paredes, what do you consider your biggest successes and your biggest disappointments? What do you consider your biggest, your greatest successes and your greatest disappointments?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Armendariz, Efraim Pacillas, 1938-2013",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mexican-American Studies Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Folklore Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Socio-cultural Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Sociolinguistics",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Physical Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Archeology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Humanities",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mathematics",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "408d6555-5c3b-4861-9d9f-4443ae0c4037"
+    },
+    {
+      "start_time": 120,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I don't know, they're all so mixed up together you know? [chuckles] I would not use the word, \"My greatest successes\" because anything I did there were a lot of people working with me but I think I not only founded-- Before I founded the Mexican-American Studies Center, I founded the Folklore Center also."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Armendariz, Efraim Pacillas, 1938-2013",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mexican-American Studies Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Folklore Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Socio-cultural Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Sociolinguistics",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Physical Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Archeology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Humanities",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mathematics",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "e14a2be3-5558-42cd-b9a9-7ad836f01987"
+    },
+    {
+      "start_time": 148,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We became the Anthropology Department here. It's one of the few departments that has five-- What do we call them? Five, not concentrations, you might say. Usually you have Socio-cultural Anthropology, Sociolinguistics, Physical Anthropology, and Archeology."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Armendariz, Efraim Pacillas, 1938-2013",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mexican-American Studies Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Folklore Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Socio-cultural Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Sociolinguistics",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Physical Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Archeology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Humanities",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mathematics",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "636bc1d7-5aa3-4870-9060-e666b0480ab3"
+    },
+    {
+      "start_time": 182,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, after I have been here, we have a fifth one, Folklore, and from there I went to the Mexican-American Studies Program. The Mexican-American Studies Program has been doing very well, I cannot claim credit for it. All I can say the way I can say about Folklore"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Armendariz, Efraim Pacillas, 1938-2013",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mexican-American Studies Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Folklore Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Socio-cultural Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Sociolinguistics",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Physical Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Archeology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Humanities",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mathematics",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "4c885dfc-3ac6-4aa6-b793-9ac5331a0f6a"
+    },
+    {
+      "start_time": 208,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "was that I planted the seeds, I saw the seedlings grow about this tall, but then others really saw them become a forest. I am happy about that. I'm very happy, for example, to go to campus now when I can and have coffee with a growing number of Mexicanos that we have in different departments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Armendariz, Efraim Pacillas, 1938-2013",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mexican-American Studies Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Folklore Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Socio-cultural Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Sociolinguistics",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Physical Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Archeology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Humanities",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mathematics",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "d54afd62-23ec-435a-a25d-6f26e13367fc"
+    },
+    {
+      "start_time": 235,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not only in the humanities but we have Armendariz, for example, in mathematics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Armendariz, Efraim Pacillas, 1938-2013",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mexican-American Studies Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Folklore Center",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Socio-cultural Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Sociolinguistics",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Physical Anthropology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Archeology",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Humanities",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Mathematics",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "7d6d4213-5c3e-49e6-8f37-d625ab658190"
+    },
+    {
+      "start_time": 248,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you say a few words to the parents that will be listening to you speak about the importance of keeping their children in school? Could you do it in Spanish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Education",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "e3a113c7-3580-431b-bd11-5b591feec7be"
+    },
+    {
+      "start_time": 259,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very important and most important of all to the parents' viewpoint is helping the children, giving them support, as much as possible. Of course, that is not feasible for some parents whose English is limited but perhaps to find someone to tutor the students,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "7407e8d6-d750-4c56-b69d-24baedcda8ba"
+    },
+    {
+      "start_time": 282,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but make them feel, well as Chicanos who have said, \"Que sí se puede. Sí se puede hacer\". [Translation: Yes you can. It can be done.] What we need, of course, is money. Because if parents have to pull a child out of school to help support the family, what can you do? Very often perhaps one of the things that might be done"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "a8d02894-446e-4fb5-9e56-8d1055ba2199"
+    },
+    {
+      "start_time": 312,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is to have bilingual volunteers who are willing to help the families. I've read a manuscript done by Harriet Romo. She is the wife of Ricardo Romo. She's an Anglo, by the way, but her Spanish is extremely good. She was in Latin America with these groups that went over there, and she is in Sociology."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "b12a6384-6e36-4886-b8e2-c826231e2c45"
+    },
+    {
+      "start_time": 351,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She and another, I think someone in Social Ed, have a book that's been accepted by the UT press on-- It was a study of dropouts here in Austin, where situation is much better. And she gave us one example of her own personal experience. It was a mother who knew no English"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "578a18f2-ebeb-45b0-9f7a-ca2468c8b92c"
+    },
+    {
+      "start_time": 379,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and they were stonewalling her so she, Mrs. Romo herself, decided to act for the mother and she got stonewalled. She would make an appointment with an assistant principal, she would show up and the assistant principal wasn't there. Very much of that happened, and I'm sure if it can happen in Austin,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "cf5b579f-59f2-44ae-9b00-bb2d1a1badb3"
+    },
+    {
+      "start_time": 408,
+      "end_time": 438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it can happen in our public schools too. Perhaps a group of young people perhaps, with college education. That could help, especially the parents that cannot do it for themselves, that would be very, very important, I think. Because we need it and the fact that the situation down there sadly"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "5fb399e4-3f93-418d-8316-9bfad1659ed0"
+    },
+    {
+      "start_time": 438,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is not the situation that I saw when I was young. You have real problems, but things are happening. So I hope- My alma mater down there is a part of my Austin alma mater too [laughs] So I can say that all my degrees are from UT."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Places"
+        },
+        {
+          "tag": "Romo, Ricardo, 1943-",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "People - Scholars and academics"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Public schools",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "College education",
+          "category": "Education and pedagogy"
+        }
+      ],
+      "uuid": "1444b373-9c99-4017-8299-c9b6ff3343b4"
+    },
+    {
+      "start_time": 467,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you currently working on any projects after this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "64ba7d97-a3bf-43f7-afdf-159db3faf896"
+    },
+    {
+      "start_time": 471,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am supposed to. I had a very bad time just about a year ago. In fact, it was the 16 de Septiembre that I went into the hospital and had this pacemaker, because I passed out a couple of times. I have a door that leads to the kitchen, it's one of those hollow doors, it's splintered."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "a2a0d70b-e71d-413a-a0a6-e3ea2aecb0b3"
+    },
+    {
+      "start_time": 501,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It splintered on my tailbone, falling. Luckily the two times that I fell very badly my wife was there and she caught me. But if you have to die that is probably best death, because I was in the kitchen that time making my breakfast. My wife later would joke"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "a04ae9fc-8612-48a1-9057-447ae7ff8d30"
+    },
+    {
+      "start_time": 528,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that I didn't want to do was make my breakfast. I was struggling with a pair of biscuits with sausage. I heard my wife come in and I heard her say \"¿Qué te pasa?\" [Translation: What's going on with you?]. That's the last thing I remember. The next thing I remember I was sitting on the floor,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "ec81f45a-d4dd-4c53-b85a-e47c5c777ed6"
+    },
+    {
+      "start_time": 553,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "her hands were under my armpits and she was saying in English, she said, \" [Inaudible] . Get up, get up.\" Our granddaughter was staying here with us and I could see that she was in another room so I thought she was trying to get my granddaughter up. Then I woke up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "cc0ce52d-3e23-40c6-b814-560446d65c82"
+    },
+    {
+      "start_time": 577,
+      "end_time": 597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If my heart had stopped just a little bit more I would've been out. Then she brought me from the kitchen to an armchair over at the other end of this long room and I was going with her and all of a sudden she was telling me again, \"Get up, levántate.\" I had completely blacked out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "a3c75ce5-43f5-4cb1-bdde-fe38076f91c0"
+    },
+    {
+      "start_time": 598,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I understand that's what happened to this basketball player, he never felt anything. There was a high school football player that had happened to. The thing is that this is so sneaky, that later there's nothing wrong with it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "345c8401-9987-4c7a-81e7-8d91bcc65e37"
+    },
+    {
+      "start_time": 621,
+      "end_time": 622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like it didn't happen?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "1e34eaad-0a48-4b2b-9521-814f96cfee51"
+    },
+    {
+      "start_time": 623,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went to see the doctor. Couldn't find anything wrong. He was going out on vacation, he's on vacation again. I get sick when he goes on vacation. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "9abb9afe-efec-4c28-8661-3ef11a872657"
+    },
+    {
+      "start_time": 635,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You time it, when you get sick he goes on vacation?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "ea403f85-d10b-45e0-aa2d-282cdb0db427"
+    },
+    {
+      "start_time": 637,
+      "end_time": 661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My timing, yes. [laughs] He uh, I had these monitors and then we took it back. Two days later he came back and told me, \"I want you in the hospital tomorrow.\" Apparently during the night my heart almost stopped again. El 16 de septiembre they put this thing on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "275e6c20-8030-4a3c-bf7a-b415a77ee8da"
+    },
+    {
+      "start_time": 663,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I came out I felt much better, but I took that as a wake-up call, you might say. I started working on my latest book which is a collection of short stories. Really is just digging things out. I'm not creating anything these days and that is out, 17 short stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "89ed8806-e11b-43ed-b33d-5e48d252eab6"
+    },
+    {
+      "start_time": 685,
+      "end_time": 706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first one is The Hammon and the Beans . Then I sort of relaxed and this thing-- Again, I went just for them to check this thing. I think maybe I've told them, maybe I'm repeating myself. Because it has to be checked every three or four months. I was lying on the table"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "957bae62-84bb-42be-ba0b-9e468c08dd60"
+    },
+    {
+      "start_time": 707,
+      "end_time": 730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and this nurse that checks, she was checking it, when all of the sudden, of course, she was recording an electrocardiogram. She looked at it and said, \"Your atria are going wild.\" The two parts, the upper parts of the heart, and she called the doctor. Of course, the doctor had his own patients."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "1160f4f6-e55f-432b-b2c1-f6af172713f1"
+    },
+    {
+      "start_time": 730,
+      "end_time": 760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He couldn't come immediately. It took him about half an hour to come. By that time the PKG was normal, completely normal, but of course, he had the other one. They gave me other medicines. Especially, he says that what happens is the blood isn't squeezed out into the system"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "d6975687-6a9b-4601-93a1-d6e441b2f2b8"
+    },
+    {
+      "start_time": 761,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and it develops little blood clots. Those blood clots either will give me a coronary or a stroke. I was given the medicine, I forget the name, which is very potent, to send the blood. Right now I have to measure because if it's too thin I'll get a stroke."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "dccbd19a-d7d3-4875-9201-ef3474d2cbbb"
+    },
+    {
+      "start_time": 785,
+      "end_time": 789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If it's not thin enough, I might get a coronary. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "ffca8574-bed0-4136-a4b0-b863fdb4d390"
+    },
+    {
+      "start_time": 789,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You'll have all the doctors in town when that happens. Let's hope it never happens, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "517df524-ac96-4055-997f-a0692512c3eb"
+    },
+    {
+      "start_time": 793,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To make a long story short, I dug up a short novel that I won a prize with, by the way, when I was still a graduate student here. I got $500 bucks out of it, called The Shadow, that everybody liked, but everybody had criticisms. So I started trying to rewrite it and finally gave up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "907aceb4-c401-4be1-bb5f-01a7ce20b673"
+    },
+    {
+      "start_time": 822,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'm going back trying to recreate the original if I have time. I have a lot of other stuff there to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Immediate family",
+          "category": "Biographical history"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "The Shadow--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "The Hammon and the Beans and Other Stories--Américo Paredes",
+          "category": "Publications"
+        }
+      ],
+      "uuid": "90bbc466-9fe5-44b4-b307-8f5dbc4470c8"
+    },
+    {
+      "start_time": 831,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have a favorite corrido? I mean, something that really stands out in your mind that you've had for a long time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Medrano",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5dac305c-3474-4c05-85fd-8c89fb8d42c8"
+    },
+    {
+      "start_time": 835,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course, my favorite corrido from an intellectual viewpoint, is the corrido de Gregorio Cortez. I like it because I got a PhD out of it, that's also true. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "ac8ac7a9-1588-4fa2-af80-499cb06edd4b"
+    },
+    {
+      "start_time": 853,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have life completely reproducing oral tradition. Because what oral tradition said, the corrido hero is a peaceful man who is goaded, either one of his relatives is killed. He rises in wrath, kills several sheriffs and either is captured and killed or gets to the other side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "2af8f293-b3c3-4289-8aec-9edbee89d968"
+    },
+    {
+      "start_time": 883,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gregorio Cortez, from what everybody has said, and here this includes the warden of the prison he was in, the sheriff who had captured them. All say he was a very cool man, very intelligent. That's why I hate this garbage that was put out as a movie. They show the man is actually bawling out loud."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "06d238b9-f859-4c16-aa1f-454398b9ff81"
+    },
+    {
+      "start_time": 912,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everybody says he was completely, in fact, he would speak in Spanish and the translator would translate it and he would tell him in Spanish, \"Te equivocaste\" [Translation: \"You made a mistake.\"]. He knew enough English but he made friends with the people that captured him. I thought that he was the ideal person"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "6e2b71de-a4d6-437d-80be-7238f6b3ad0d"
+    },
+    {
+      "start_time": 933,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to present my case. Musically, el corrido de Jacinto Treviño, which is completely ahistorical. He is a favorite, and it's a favorite among Chicanos. It's ahistorical because it's an amalgam of two historical corridos, one about Jacinto Treviño and another about Ignacio Treviño."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "08586d61-ebc3-422a-995f-fae9c8d47611"
+    },
+    {
+      "start_time": 961,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I have el corrido, the original of Ignacio Treviño in my book A Texan Mexican Cancionero . By the time I published that, I have not been able to find anybody who knew the original of Jacinto Treviño. Somebody who published these ephemeral, little papers that appeared just in the 70s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "edc3e47b-2ec0-4940-8f62-8b7424b464ad"
+    },
+    {
+      "start_time": 988,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He wrote me and told me that he had found the corrido and he published it. I wrote him asking him permission for me to use it to write an article. It's still in my files. I mean, you just have one life and you can't do everything at the same time. Ignacio Treviño fought against the rangers in a saloon"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "cc6f1750-3b24-4309-a580-6f20fb0ceda2"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in Brownsville, Texas. He was a policeman at the time that the Mexicanos controlled Brownsville. And the rangers and the sheriff's deputies, who belonged to another party, came and killed one ranger with a tale to assassinate José Crixelle. Crixelle by the way, is not an English name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "a1ca58a6-2d00-4fc1-a77f-b3fe0a527ccc"
+    },
+    {
+      "start_time": 1047,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's either Catalán or Gallego. They still use the X to stand for the S-H sound. José Crixelle, Mexicano. He was the sherriff, no, the city marshall. A ranger called Mac something, I can't remember his name right now, killed him down in the Market Square by using two pistols. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "c0073607-95f8-4dc2-83e8-f32ebc942fb6"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He knew that Crixelle would come around, do his rounds and he would come to the Market Square, tether his horse and go have coffee. So first, this ranger, McAllister was his name. This ranger resigned from the ranger's force. The rangers were in a camp outside. He resigned from the ranger's force, he came into town,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "fadddcf1-8e50-443f-b4af-bee3d895c754"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he sat where he knew Crixelle would come, on a chair, straddling it with his hands. The arms on the chair, with his pistol very visible here and his hat on his lap, but in his lap he had another pistol. See, he told, \"Hey, Joe. Come here.\" Crixelle started walking to him. With his thumbs--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "ec3e1ed6-8f70-442d-ba37-e5181129256a"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They say he always had his thumb in his belt like that, and when he got close, he murdered him. Then the rangers and the deputies came in and started shooting up the police. Todos mexicanos, hay que algunos por ejemplo, yo conocí soy viejito, se llamaba Wierbiski [ortografía incierta], Polaco, pero era mexicano.\n[Translation: All mexicans, and there's some for example, that I knew because I'm old, he was named Wierbiski (spelling uncertain), Polish, but he was Mexican.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "e9c3dc21-deea-4c25-9f0f-d871b0563f99"
+    },
+    {
+      "start_time": 1157,
+      "end_time": 1182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murió en Matamoros porque casi todos escaparon para Matamoros y a Ignacio Treviño lo acorralaron en la cantina El Elefante Blanco que era de otro Crixelle. \n[Translation: He died in Matamoros, because almost everyone escaped to Matamoros. Ignacio Treviño was cornered in the White Elephant saloon that belonged to the other Crixelle]. \nThey shot each other, fought at each other, but the only casualties were a couple of kegs of beer and a lot of bottles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "4fe92434-5e02-4cde-8926-0d00dc995a3a"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, somebody arranged a truce and Ignacio Treviño was able to leave for Matamoros. That's why the corrido says, \"En la cantina a ver que se agarraron a balazos, por donde quiera saltaban botellas hechas pedazos\". [Translation: In the saloon they had a shootout, broken bottles were flying everywhere] Jacinto Treviño was in El Ranchito working for an Anglo, he and his brother."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5e343c8b-83ef-46e1-ae54-ee618aca1d0e"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The anglo, the brother was working on a tractor and the rancher wasn't happy with the work he had done. So he called him a son of a bitch, and he said he started coming down. By the time he got down, the rancher had a big heavy wrench and he hit him on the head and killed him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "147eba8d-4f26-4bed-8c7d-05bb5b425dab"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jacinto, his brother, heard about that and he came but he had a pistol. He killed the rancher and crossed over to Matamoros. Then, a cousin of Jacinto was hired by the rangers and deputies to lure Jacinto across and he agreed to come. But not being exactly stupid"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "2b9b29a2-ea47-40f8-8220-7b4c6b122fda"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he came a couple of hours before the tryst. He was hiding already when two cars with rangers and deputies arrived and they got off. Of course, the first one-- He had a rifle, the first one he killed was his cousin and then he killed I think two or three of the lawmen and wounded several others,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "154ef6eb-35d6-469b-a55a-78b2e5761de5"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and apparently started shooting at each other because there were two cars. He escaped to Matamoros and he lived there. In those days they still had cocheros, coches, and he was a very peaceful man. In fact, I understand that somebody-- You see that in in the old wild west movies,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Code switching",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "235131ba-3b6b-4609-bc71-57b0abfc237b"
+    },
+    {
+      "start_time": 1329,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the young gunslinger which challenges the other gunslinger. He wanted to fight Jacinto Treviño and he wouldn't fight him. But that was Jacinto Treviño. By the way, the story is that Treviño didn't kill anybody, that they had shot each other. After all, Mexicans can't shoot. [laughter] - [video cuts to black]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Américo Paredes",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "Places"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "1910s",
+          "category": "Dates referenced"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "People - Local and community figures"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "People - Political or historical figures"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "People - Unidentified"
+        },
+        {
+          "tag": "Oral tradition",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Ballads",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Western films",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Anglos",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Subjects"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "Subjects"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "Publications"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Catalán",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "Linguistics"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border--Américo Paredes",
+          "category": "Publications"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "Education and pedagogy"
+        },
+        {
+          "tag": "Genre--Corridos",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "Music"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "Music"
+        },
+        {
+          "tag": "Ranch",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "cafb2949-5405-4109-af49-e3b1055a5cd2"
+    }
+  ],
   "event_id": "618b382c-e3ac-45aa-a745-66b70c317bd8",
   "set": "1994_04",
   "source_id": "7fa22d13-3c51-4864-bdbe-37cd56a07d99"
